@@ -1,0 +1,4210 @@
+[
+  {
+    "major": "1",
+    "minor": "1",
+    "file": "1_1.jpg",
+    "name": "Raikasta sitruunakanaa ja aromaattista kookosriisiä",
+    "rate": 0,
+    "tags": [
+      "kana",
+      "riisi",
+      "sitruuna",
+      "persilja",
+      "kurkku",
+      "salaatti",
+      "chili",
+      "broiler",
+      "file",
+      "valkosipuli",
+      "chili",
+      "kookosmaito",
+      "soija"
+    ]
+  },
+  {
+    "major": "1",
+    "minor": "2",
+    "file": "1_2.jpg",
+    "name": "Värikäs tonnikala-pinaattipasta",
+    "rate": 0,
+    "tags": [
+      "tonnikala",
+      "pinaatti",
+      "pasta",
+      "tomaatti",
+      "sitruuna",
+      "punasipuli",
+      "valkosipuli",
+      "ranskankerma"
+    ]
+  },
+  {
+    "major": "1",
+    "minor": "3",
+    "file": "1_3.jpg",
+    "name": "Porsaanjauhelihapihvejä mausteisessa kermakastikkeessa ja paahdettuja kasviksia",
+    "rate": 0,
+    "tags": [
+      "jauheliha",
+      "possu",
+      "kasvis",
+      "kerma",
+      "porkkana",
+      "peruna",
+      "punasipuli",
+      "persilja",
+      "sinappi"
+    ]
+  },
+  {
+    "major": "1",
+    "minor": "4",
+    "file": "1_4.jpg",
+    "name": "Paahdettu munakoiso-couscoussalaatti & feta-jogurttikastike",
+    "rate": 0,
+    "tags": [
+      "munakoiso",
+      "couscous",
+      "salaatti",
+      "jogurtti",
+      "valkosipuli",
+      "kikherne",
+      "tomaatti",
+      "minttu",
+      "lime",
+      "fetajuusto",
+      "jogurtti",
+      "hunaja"
+    ]
+  },
+  {
+    "major": "2",
+    "minor": "1",
+    "file": "2_1.jpg",
+    "name": "Peruna-ruusukaalipaistos bratwursteilla & yrttikermaviilikastike",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "ruusukaali",
+      "bratwurst",
+      "yrtti",
+      "kermaviili",
+      "kastike",
+      "paistos",
+      "porkkana",
+      "punasipuli",
+      "makkara",
+      "korianteri",
+      "sinappi",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "2",
+    "minor": "2",
+    "file": "2_2.jpg",
+    "name": "Värikäs kanawokki kookosmaidolla & täysjyvänuudeleita",
+    "rate": 0,
+    "tags": [
+      "kana",
+      "wokki",
+      "kookosmaito",
+      "nuudeli",
+      "porkkana",
+      "valkosipuli",
+      "nektariini",
+      "chili",
+      "inkivääri",
+      "korianteri",
+      "suolapähkinä",
+      "sitruuna",
+      "nuudeli"
+    ]
+  },
+  {
+    "major": "2",
+    "minor": "3",
+    "file": "2_3.jpg",
+    "name": "Maukas jauheliha gulassi & perunoita",
+    "rate": 0,
+    "tags": [
+      "jauheliha",
+      "peruna",
+      "chili",
+      "nauta",
+      "tomaattimurska",
+      "nauta",
+      "sipuli",
+      "valkosipuli",
+      "paprika"
+    ]
+  },
+  {
+    "major": "2",
+    "minor": "4",
+    "file": "2_4.jpg",
+    "name": "Vuohenjuusto-uunirisotto aurinkokuivatuilla tomaateilla",
+    "rate": 0,
+    "tags": [
+      "vuohenjuusto",
+      "risotto",
+      "aurinkokuivattu tomaatti",
+      "rucolasalaatti",
+      "tomaatti",
+      "riisi",
+      "valkosipuli",
+      "sipuli",
+      "aurinkokuivattu tomaatti",
+      "tomaatti"
+    ]
+  },
+  {
+    "major": "3",
+    "minor": "1",
+    "file": "3_1.jpg",
+    "name": "Uunissa paahdettuja broilerin koipia perunoilla & minttu-jogurttikastiketta",
+    "rate": 0,
+    "tags": [
+      "broiler",
+      "peruna",
+      "minttu",
+      "jogurtti",
+      "kastike",
+      "punasipuli",
+      "parsakaali",
+      "hunaja",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "3",
+    "minor": "2",
+    "file": "3_2.jpg",
+    "name": "Pannulla rapeaksi paistettua kirjolohta & sitruunoilla maustettua polentaa",
+    "rate": 1,
+    "tags": [
+      "lohi",
+      "polenta",
+      "sitruuna",
+      "salaatti",
+      "kurkku"
+    ]
+  },
+  {
+    "major": "3",
+    "minor": "3",
+    "file": "3_3.jpg",
+    "name": "Herkullinen tomaattinen halloumipasta",
+    "rate": 0,
+    "tags": [
+      "tomaatti",
+      "halloumjuusto",
+      "pasta",
+      "minttu",
+      "lehtikaali",
+      "punasipuli",
+      "valkosipuli",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "3",
+    "minor": "4",
+    "file": "3_4.jpg",
+    "name": "Mausteista karamellipossua & jasmiiniriisiä",
+    "rate": 0,
+    "tags": [
+      "possu",
+      "riisi",
+      "inkivääri",
+      "silmusalaatti",
+      "korianteri",
+      "kassler",
+      "valkosipuli",
+      "silmusalaatti"
+    ]
+  },
+  {
+    "major": "4",
+    "minor": "1",
+    "file": "4_1.jpg",
+    "name": "Herkullinen uunifetalohi & porkkana-perunamuusia",
+    "rate": 0,
+    "tags": [
+      "lohi",
+      "fetajuusto",
+      "porkkana",
+      "peruna",
+      "muusi",
+      "tomaatti",
+      "valkosipuli",
+      "sitruuna",
+      "punasipuli",
+      "rucolasalaatti",
+      "maito"
+    ]
+  },
+  {
+    "major": "4",
+    "minor": "2",
+    "file": "4_2.jpg",
+    "name": "Kermainen broileri-fenkolipasta",
+    "rate": 0,
+    "tags": [
+      "broiler",
+      "fenkoli",
+      "pasta",
+      "parmesanjuusto",
+      "persilja",
+      "punasipuli",
+      "sitruuna",
+      "kerma",
+      "valkosipuli",
+      "persilja",
+      "rucolasalaatti"
+    ]
+  },
+  {
+    "major": "4",
+    "minor": "3",
+    "file": "4_3.jpg",
+    "name": "Chili con carnea ja riisiä",
+    "rate": 0,
+    "tags": [
+      "chili",
+      "nauta",
+      "jauheliha",
+      "riisi",
+      "porkkana",
+      "papu",
+      "persilja",
+      "sipuli",
+      "valkosipuli",
+      "tomaattimurska"
+    ]
+  },
+  {
+    "major": "4",
+    "minor": "4",
+    "file": "4_4.jpg",
+    "name": "Paahdettu paprikakeitto ja uunituoretta rosmariini focaciaa",
+    "rate": 0,
+    "tags": [
+      "paprika",
+      "keitto",
+      "rosmariini",
+      "focaccia",
+      "pizza",
+      "sipuli",
+      "valkosipuli",
+      "tomaattisose",
+      "ranskankerma",
+      "kerma"
+    ]
+  },
+  {
+    "major": "5",
+    "minor": "1",
+    "file": "5_1.jpg",
+    "name": "Kermainen onepot kanapata uunissa",
+    "rate": 0,
+    "tags": [
+      "kana",
+      "pata",
+      "kerma",
+      "peruna",
+      "porkkana",
+      "broiler",
+      "persilja",
+      "punasipuli",
+      "valkosipuli",
+      "leike"
+    ]
+  },
+  {
+    "major": "5",
+    "minor": "2",
+    "file": "5_2.jpg",
+    "name": "Mausteinen kikherne-shakshuka",
+    "rate": 0,
+    "tags": [
+      "kikherne",
+      "kanamuna",
+      "tomaatti",
+      "paprika",
+      "sipuli",
+      "valkosipuli",
+      "tomaattipyre"
+    ]
+  },
+  {
+    "major": "5",
+    "minor": "3",
+    "file": "5_3.jpg",
+    "name": "Maailman paras nakkikastike & keitetyt perunat",
+    "rate": 0,
+    "tags": [
+      "nakki",
+      "peruna",
+      "kastike",
+      "porkkana",
+      "persilja",
+      "tomaattipyre",
+      "salaatti",
+      "makkara",
+      "sipuli",
+      "valkosipuli",
+      "vehnäjauho",
+      "kerma",
+      "kurkku"
+    ]
+  },
+  {
+    "major": "5",
+    "minor": "4",
+    "file": "5_4.jpg",
+    "name": "Tonnikala quesadillat & avocado-kastiketta",
+    "rate": 0,
+    "tags": [
+      "tonnikala",
+      "avocado",
+      "kastike",
+      "juustoraaste",
+      "tomaatti",
+      "kermaviili",
+      "korianteri",
+      "tortilla",
+      "lime"
+    ]
+  },
+  {
+    "major": "6",
+    "minor": "1",
+    "file": "6_1.jpg",
+    "name": "Kookoksinen kana-linssikeitto",
+    "rate": 0,
+    "tags": [
+      "kana",
+      "kookosmaito",
+      "linssi",
+      "porkkana",
+      "suikale",
+      "korianteri",
+      "sitruuna",
+      "korianteri",
+      "sipuli",
+      "valkosipuli",
+      "paprika",
+      "tomaattipyre",
+      "broiler",
+      "file",
+      "suikale",
+      "keitto"
+    ]
+  },
+  {
+    "major": "6",
+    "minor": "2",
+    "file": "6_2.jpg",
+    "name": "Pannulla paistetut jauhelihapihvit lempeällä pippurikastikkeella & keitetyt perunat",
+    "rate": 0,
+    "tags": [
+      "jauheliha",
+      "nauta",
+      "pihvi",
+      "peruna",
+      "pippuri",
+      "kastike",
+      "kanamuna",
+      "salaatti",
+      "korppujauho",
+      "sipuli",
+      "valkosipuli",
+      "kerma",
+      "sinappi",
+      "kurkku"
+    ]
+  },
+  {
+    "major": "6",
+    "minor": "3",
+    "file": "6_3.jpg",
+    "name": "Värikäs uunijuures-salaatti & feta-jogurttikastike",
+    "rate": 0,
+    "tags": [
+      "juures",
+      "salaatti",
+      "fetajuusto",
+      "jogurtti",
+      "porkkana",
+      "punajuuri",
+      "punasipuli",
+      "valkosipuli",
+      "lehtikaali",
+      "siemenet",
+      "korianteri",
+      "sitruuna",
+      "hunaja"
+    ]
+  },
+  {
+    "major": "6",
+    "minor": "4",
+    "file": "6_4.jpg",
+    "name": "Herkullinen kylmäsavulohipizza",
+    "rate": 0,
+    "tags": [
+      "lohi",
+      "pizza",
+      "tomaatti",
+      "paprika",
+      "lohi",
+      "juustoraaste",
+      "tomaattisose",
+      "punasipuli",
+      "rucolasalaatti",
+      "omena"
+    ]
+  },
+  {
+    "major": "7",
+    "minor": "1",
+    "file": "7_1.jpg",
+    "name": "Mausteinen teriyaki uunilohi ja paahdettuja kasviksia",
+    "rate": 0,
+    "tags": [
+      "teriyaki",
+      "lohi",
+      "chili",
+      "kasvis",
+      "parsakaali",
+      "porkkana",
+      "riisi",
+      "inkivääri",
+      "korianteri",
+      "lime",
+      "valkosipuli",
+      "soija",
+      "punasipuli"
+    ]
+  },
+  {
+    "major": "7",
+    "minor": "2",
+    "file": "7_2.jpg",
+    "name": "Kermainen herkkusieni-pekonipasta",
+    "rate": 0,
+    "tags": [
+      "herkkusieni",
+      "pekoni",
+      "pasta",
+      "parmesanjuusto",
+      "sipuli",
+      "valkosipuli",
+      "punasipuli",
+      "kerma"
+    ]
+  },
+  {
+    "major": "7",
+    "minor": "3",
+    "file": "7_3.jpg",
+    "name": "Täyteläinen kasvissosekeitto & raejuustoa",
+    "rate": 0,
+    "tags": [
+      "sosekeitto",
+      "raejuusto",
+      "porkkana",
+      "palsternakka",
+      "sipuli",
+      "valkosipuli",
+      "kerma",
+      "korianteri"
+    ]
+  },
+  {
+    "major": "7",
+    "minor": "4",
+    "file": "7_4.jpg",
+    "name": "Bbq pulled pork burgerit ja lanttiperunoita",
+    "rate": 0,
+    "tags": [
+      "burger",
+      "possu",
+      "peruna",
+      "omena",
+      "valkokaali",
+      "porkkana",
+      "tomaatti",
+      "bbq",
+      "kastike",
+      "cheddarjuusto",
+      "sämpylä"
+    ]
+  },
+  {
+    "major": "8",
+    "minor": "1",
+    "file": "8_1.jpg",
+    "name": "Uunissa paahdettuja broilerinkoipia, paahdettuja kasviksia ja jogurttikastiketta",
+    "rate": 0,
+    "tags": [
+      "broiler",
+      "koipi",
+      "hunaja",
+      "jogurtti",
+      "kastike",
+      "paprika",
+      "peruna",
+      "fenkoli",
+      "aurinkokuivattu tomaatti",
+      "persilja",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "8",
+    "minor": "2",
+    "file": "8_2.jpg",
+    "name": "Mausteinen bataattikeitto ja paistettuja parsakaaleja",
+    "rate": 0,
+    "tags": [
+      "bataatti",
+      "parsakaali",
+      "keitto",
+      "kookosmaito",
+      "inkivääri",
+      "siemenet",
+      "valkosipuli",
+      "sipuli",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "8",
+    "minor": "3",
+    "file": "8_3.jpg",
+    "name": "Marokkolainen jauheliha-couscous",
+    "rate": 0,
+    "tags": [
+      "nauta",
+      "jauheliha",
+      "valkokaali",
+      "punasipuli",
+      "tomaatti",
+      "aurinkokuivattu tomaatti",
+      "valkosipuli",
+      "couscous",
+      "persilja",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "8",
+    "minor": "4",
+    "file": "8_4.jpg",
+    "name": "Sitruunainen lehtikaali-katkarapupasta",
+    "rate": 0,
+    "tags": [
+      "lehtikaali",
+      "katkarapu",
+      "sitruuna",
+      "pasta",
+      "punasipuli",
+      "parmesanjuusto",
+      "kerma",
+      "valkosipuli"
+    ]
+  },
+  {
+    "major": "9",
+    "minor": "1",
+    "file": "9_1.jpg",
+    "name": "Yrteillä maustettu tomaattinen lohipata & keitettyä hirssiä",
+    "rate": 0,
+    "tags": [
+      "valkosipuli",
+      "tomaattimurska",
+      "lohi",
+      "hirssi",
+      "punasipuli",
+      "porkkana",
+      "kesäkurpitsa",
+      "chili",
+      "sitruuna",
+      "persilja"
+    ]
+  },
+  {
+    "major": "9",
+    "minor": "2",
+    "file": "9_2.jpg",
+    "name": "Herkullinen feta-pinaattipasta",
+    "rate": 0,
+    "tags": [
+      "fetajuusto",
+      "pinaatti",
+      "pasta",
+      "chili",
+      "punasipuli",
+      "sitruuna",
+      "persilja",
+      "kerma",
+      "valkosipuli",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "9",
+    "minor": "3",
+    "file": "9_3.jpg",
+    "name": "Uunissa gratinoidut jauhelihas-enchiladat & salaatia",
+    "rate": 0,
+    "tags": [
+      "nauta",
+      "jauheliha",
+      "tomaatti",
+      "tortilla",
+      "avocado",
+      "salaatti",
+      "sipuli",
+      "papu",
+      "valkosipuli",
+      "juustoraaste"
+    ]
+  },
+  {
+    "major": "9",
+    "minor": "4",
+    "file": "9_4.jpg",
+    "name": "Pähkinäistä satay-kanaa & jasminriisiä",
+    "rate": 0,
+    "tags": [
+      "pähkinä",
+      "broiler",
+      "kana",
+      "riisi",
+      "kookosmaito",
+      "omena",
+      "valkokaali",
+      "porkkana",
+      "sataykastike",
+      "chili",
+      "valkosipuli",
+      "lime",
+      "soija",
+      "korianteri"
+    ]
+  },
+  {
+    "major": "10",
+    "minor": "1",
+    "file": "10_1.jpg",
+    "name": "Nopea ja herkullinen broileri-pestopasta",
+    "rate": 0,
+    "tags": [
+      "broiler",
+      "file",
+      "suikale",
+      "punasipuli",
+      "valkosipuli",
+      "parsakaali",
+      "pesto",
+      "kerma",
+      "sitruuna",
+      "pasta",
+      "parmesanjuusto"
+    ]
+  },
+  {
+    "major": "10",
+    "minor": "2",
+    "file": "10_2.jpg",
+    "name": "Mausteinen kookoksinen kalakeitto",
+    "rate": 0,
+    "tags": [
+      "keitto",
+      "lohi",
+      "porkkana",
+      "peruna",
+      "sipuli",
+      "valkosipuli",
+      "inkivääri",
+      "tomaattipyre",
+      "tomaatti",
+      "sitruuna",
+      "kookosmaito",
+      "korianteri"
+    ]
+  },
+  {
+    "major": "10",
+    "minor": "3",
+    "file": "10_3.jpg",
+    "name": "Maukkaat halloumipihvit, riisiä, jogurttikastiketta & salaattia",
+    "rate": 0,
+    "tags": [
+      "halloumjuusto",
+      "porkkana",
+      "riisi",
+      "kananmuna",
+      "vehnäjauho",
+      "jogurtti",
+      "pihvi",
+      "salaatti",
+      "kurkku",
+      "valkosipuli",
+      "inkivääri",
+      "sitruuna",
+      "korianteri",
+      "hunaja"
+    ]
+  },
+  {
+    "major": "10",
+    "minor": "4",
+    "file": "10_4.jpg",
+    "name": "Mureat porsaan fileepihvit kermakastikkeella & uunissa paahdettuja kasviksia",
+    "rate": 0,
+    "tags": [
+      "possu",
+      "file",
+      "pihvi",
+      "kerma",
+      "kastike",
+      "peruna",
+      "porkkana",
+      "kyssäkaali",
+      "uunijuurekset",
+      "sinappi",
+      "soija"
+    ]
+  },
+  {
+    "major": "11",
+    "minor": "1",
+    "file": "11_1.jpg",
+    "name": "Kermainen broilerikastike & riisiä",
+    "rate": 0,
+    "tags": [
+      "broiler",
+      "leike",
+      "appelsiini",
+      "riisi",
+      "salaatti",
+      "tomaattipyre",
+      "punasipuli",
+      "valkosipuli",
+      "soija",
+      "kerma"
+    ]
+  },
+  {
+    "major": "11",
+    "minor": "2",
+    "file": "11_2.jpg",
+    "name": "Mausteinen porkkana-inkiväärikeitto & paistetut kikherneet",
+    "rate": 0,
+    "tags": [
+      "porkkana",
+      "peruna",
+      "inkivääri",
+      "keitto",
+      "kookosmaito",
+      "kikherne",
+      "persilja",
+      "keitto",
+      "sipuli",
+      "valkosipuli"
+    ]
+  },
+  {
+    "major": "11",
+    "minor": "3",
+    "file": "11_3.jpg",
+    "name": "Helppo jauheliha-stroganoff & murskattuja perunoita",
+    "rate": 0,
+    "tags": [
+      "nauta",
+      "jauheliha",
+      "peruna",
+      "porkkana",
+      "maustekurkku",
+      "tomaattipyre",
+      "smetana",
+      "persilja",
+      "sipuli",
+      "valkosipuli"
+    ]
+  },
+  {
+    "major": "11",
+    "minor": "4",
+    "file": "11_4.jpg",
+    "name": "Herkullinen lämminsavulohi kulho bulgurilla",
+    "rate": 0,
+    "tags": [
+      "bulgur",
+      "lohi",
+      "pinaatti",
+      "punakaali",
+      "jogurtti",
+      "siemenet",
+      "kurkku",
+      "sitruuna",
+      "sinappi",
+      "sitruuna",
+      "hunaja"
+    ]
+  },
+  {
+    "major": "12",
+    "minor": "1",
+    "file": "12_1.jpg",
+    "name": "Paistetut kirjolohimedaljongit kermakastikkeella, murskattuja perunoita & salaattia",
+    "rate": 0,
+    "tags": [
+      "lohi",
+      "kerma",
+      "kastike",
+      "peruna",
+      "salaatti",
+      "tomaatti",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "12",
+    "minor": "2",
+    "file": "12_2.jpg",
+    "name": "Pirteä sitruunainen halloumipasta",
+    "rate": 0,
+    "tags": [
+      "halloumjuusto",
+      "sitruuna",
+      "pasta",
+      "kesäkurpitsa",
+      "minttu",
+      "punasipuli",
+      "valkosipuli"
+    ]
+  },
+  {
+    "major": "12",
+    "minor": "3",
+    "file": "12_3.jpg",
+    "name": "Lindströmin mureke, paahdettuja kasviksia & yrtti-jogurttikastiketta",
+    "rate": 0,
+    "tags": [
+      "paprika",
+      "peruna",
+      "porkkana",
+      "punasipuli",
+      "jauheliha",
+      "nauta",
+      "punajuuri",
+      "kananmuna",
+      "kapris",
+      "jogurtti",
+      "minttu",
+      "valkosipuli",
+      "sinappi",
+      "hunaja"
+    ]
+  },
+  {
+    "major": "12",
+    "minor": "4",
+    "file": "12_4.jpg",
+    "name": "Maukkaat broileripitat & kesäkurpitsa-omenaslaw",
+    "rate": 0,
+    "tags": [
+      "broiler",
+      "pitaleipä",
+      "majoneesi",
+      "tomaatti",
+      "rucolasalaatti",
+      "omena",
+      "kesäkurpitsa",
+      "lime"
+    ]
+  },
+  {
+    "major": "13",
+    "minor": "1",
+    "file": "13_1.jpg",
+    "name": "Herkullinen yhden kattilan jauhelihapasta",
+    "rate": 0,
+    "tags": [
+      "jauheliha",
+      "nauta",
+      "kesäkurpitsa",
+      "pasta",
+      "parmesanjuusto",
+      "porkkana",
+      "tomaattipyre",
+      "tomaattimurska",
+      "punasipuli",
+      "valkosipuli",
+      "chili"
+    ]
+  },
+  {
+    "major": "13",
+    "minor": "2",
+    "file": "13_2.jpg",
+    "name": "Värikäs kanapata & jasmiiniriisiä",
+    "rate": 0,
+    "tags": [
+      "broiler",
+      "file",
+      "suikale",
+      "paprika",
+      "chili",
+      "riisi",
+      "tomaattipyre",
+      "kerma",
+      "persilja",
+      "sipuli",
+      "valkosipuli"
+    ]
+  },
+  {
+    "major": "13",
+    "minor": "3",
+    "file": "13_3.jpg",
+    "name": "Perinteiset porkkanaletut, marinoidut kurkut & raejuusto",
+    "rate": 0,
+    "tags": [
+      "porkkana",
+      "porkkana",
+      "peruna",
+      "kurkku",
+      "kananmuna",
+      "maito",
+      "vehnäjauho",
+      "raejuusto",
+      "persilja"
+    ]
+  },
+  {
+    "major": "13",
+    "minor": "4",
+    "file": "13_4.jpg",
+    "name": "Pepperonipizza ruokaboksin tapaan",
+    "rate": 0,
+    "tags": [
+      "pepperonimakkara",
+      "pizzataikina",
+      "tomaatti",
+      "ananas",
+      "salaatti",
+      "tomaatti",
+      "juustoraaste",
+      "punasipuli"
+    ]
+  },
+  {
+    "major": "14",
+    "minor": "1",
+    "file": "14_1.jpg",
+    "name": "Pannulla paistettua kirjolohta, murskattuja perunoita & kermaviilikastiketta",
+    "rate": 0,
+    "tags": [
+      "lohi",
+      "peruna",
+      "kermaviili",
+      "sinappi",
+      "sitruuna",
+      "salaatti",
+      "kurkku"
+    ]
+  },
+  {
+    "major": "14",
+    "minor": "2",
+    "file": "14_2.jpg",
+    "name": "Maukas kana-lehtikaalipasta",
+    "rate": 0,
+    "tags": [
+      "broiler",
+      "file",
+      "suikale",
+      "pasta",
+      "aurinkokuivattu tomaatti",
+      "sitruuna",
+      "korianteri",
+      "parmesanjuusto",
+      "valkosipuli",
+      "lehtikaali"
+    ]
+  },
+  {
+    "major": "14",
+    "minor": "3",
+    "file": "14_3.jpg",
+    "name": "Mausteinen delikaura-wokki & jasmiiniriisiä",
+    "rate": 0,
+    "tags": [
+      "wokki",
+      "delikaura",
+      "valkokaali",
+      "suolapähkinä",
+      "riisi",
+      "korianteri",
+      "paprika",
+      "punasipuli",
+      "valkosipuli",
+      "soija",
+      "lime"
+    ]
+  },
+  {
+    "major": "14",
+    "minor": "4",
+    "file": "14_4.jpg",
+    "name": "Herkulliset juustohampparit ja paahdettuja veneperunoita",
+    "rate": 0,
+    "tags": [
+      "burger",
+      "jauheliha",
+      "nauta",
+      "cheddarjuusto",
+      "tomaatti",
+      "herneenverso",
+      "sämpylä",
+      "majoneesi",
+      "peruna",
+      "sinappi"
+    ]
+  },
+  {
+    "major": "15",
+    "minor": "1",
+    "file": "15_1.jpg",
+    "name": "Paahdettuja broilerinkoipia & kasviksia jogurttikastikkeella",
+    "rate": 0,
+    "tags": [
+      "broiler",
+      "koipi",
+      "peruna",
+      "porkkana",
+      "fenkoli",
+      "jogurtti",
+      "sitruuna",
+      "tilli",
+      "salaatti",
+      "appelsiini"
+    ]
+  },
+  {
+    "major": "15",
+    "minor": "2",
+    "file": "15_2.jpg",
+    "name": "Herkullinen kylmäsavulohikeitto",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "porkkana",
+      "lanttu",
+      "sipuli",
+      "lohi",
+      "kerma",
+      "tilli",
+      "sitruuna",
+      "keitto"
+    ]
+  },
+  {
+    "major": "15",
+    "minor": "3",
+    "file": "15_3.jpg",
+    "name": "Herkullinen tomaattinen halloumipasta",
+    "rate": 0,
+    "tags": [
+      "punasipuli",
+      "tomaatti",
+      "lehtikaali",
+      "halloumjuusto",
+      "sitruuna",
+      "pasta"
+    ]
+  },
+  {
+    "major": "15",
+    "minor": "4",
+    "file": "15_4.jpg",
+    "name": "Mausteinen chorizo-kasvispaistos couscousin kera",
+    "rate": 0,
+    "tags": [
+      "chorizo",
+      "punasipuli",
+      "munakoiso",
+      "paprika",
+      "kikherne",
+      "couscous",
+      "lime",
+      "valkosipuli"
+    ]
+  },
+  {
+    "major": "16",
+    "minor": "1",
+    "file": "16_1.jpg",
+    "name": "Lempeä chili con carne ja kleitettyä basmatiriisiä",
+    "rate": 0,
+    "tags": [
+      "jauheliha",
+      "nauta",
+      "riisi",
+      "porkkana",
+      "chili",
+      "papu",
+      "tomaattimurska",
+      "tomaattipyre",
+      "persilja",
+      "valkosipuli"
+    ]
+  },
+  {
+    "major": "16",
+    "minor": "2",
+    "file": "16_2.jpg",
+    "name": "Pinaattiletut tuoreesta pinaatista, perunamuusia ja puolukkahilloa",
+    "rate": 0,
+    "tags": [
+      "pinaatti",
+      "lettu",
+      "peruna",
+      "puolukkahillo",
+      "maito",
+      "salaatti",
+      "kurkku",
+      "kananmuna",
+      "vehnäjauho"
+    ]
+  },
+  {
+    "major": "16",
+    "minor": "3",
+    "file": "16_3.jpg",
+    "name": "Kermainen pasta Alfredo kanalla",
+    "rate": 0,
+    "tags": [
+      "parsakaali",
+      "broiler",
+      "file",
+      "suikale",
+      "kerma",
+      "lime",
+      "parmesanjuusto",
+      "pasta",
+      "persilja",
+      "porkkana",
+      "valkosipuli",
+      "punasipuli",
+      "pasta",
+      "parsakaali",
+      "vehnäjauho"
+    ]
+  },
+  {
+    "major": "16",
+    "minor": "4",
+    "file": "16_4.jpg",
+    "name": "Maukkaat lohiburgerit ja paahdettuja lohkoperunoita",
+    "rate": 0,
+    "tags": [
+      "burger",
+      "lohi",
+      "jogurtti",
+      "salaatti",
+      "tomaatti",
+      "sämpylä",
+      "peruna",
+      "sinappi",
+      "lime"
+    ]
+  },
+  {
+    "major": "17",
+    "minor": "1",
+    "file": "17_1.jpg",
+    "name": "Herkullinen uunifeta-lohi & porkkana-perunamuusia",
+    "rate": 0,
+    "tags": [
+      "juures",
+      "peruna",
+      "porkkana",
+      "fetajuusto",
+      "lohi",
+      "purjo",
+      "tomaatti",
+      "lime"
+    ]
+  },
+  {
+    "major": "17",
+    "minor": "2",
+    "file": "17_2.jpg",
+    "name": "Mausteista karamellipossua & jasmiiniriisä",
+    "rate": 0,
+    "tags": [
+      "possu",
+      "kassler",
+      "valkosipuli",
+      "inkivääri",
+      "korianteri",
+      "lime",
+      "appelsiini",
+      "salaatti",
+      "punasipuli",
+      "riisi"
+    ]
+  },
+  {
+    "major": "17",
+    "minor": "3",
+    "file": "17_3.jpg",
+    "name": "Kermainen purjo-perunasosekeitto & paistettuja kikherneitä",
+    "rate": 0,
+    "tags": [
+      "keitto",
+      "peruna",
+      "purjo",
+      "korianteri",
+      "kikherne",
+      "valkosipuli",
+      "kerma"
+    ]
+  },
+  {
+    "major": "17",
+    "minor": "4",
+    "file": "17_4.jpg",
+    "name": "Yhden pannun lasagne naudan jauhelihasta",
+    "rate": 0,
+    "tags": [
+      "lasagnelevy",
+      "nauta",
+      "jauheliha",
+      "porkkana",
+      "tomaattipyre",
+      "tomaattimurska",
+      "tuorejuusto",
+      "parmesanjuusto",
+      "salaatti",
+      "kurkku",
+      "sipuli",
+      "valkosipuli"
+    ]
+  },
+  {
+    "major": "18",
+    "minor": "1",
+    "file": "18_1.jpg",
+    "name": "Herkulliset jauhelihapyörykät masuteisessa tomaattikastikkeessa & bulguria",
+    "rate": 0,
+    "tags": [
+      "jauheliha",
+      "nauta",
+      "bulgur",
+      "kananmuna",
+      "tomaattimurska",
+      "chili",
+      "persilja",
+      "lime",
+      "sipuli",
+      "valkosipuli",
+      "salaatti"
+    ]
+  },
+  {
+    "major": "18",
+    "minor": "2",
+    "file": "18_2.jpg",
+    "name": "Maistuva uunifeta-kasvispasta",
+    "rate": 0,
+    "tags": [
+      "parsakaali",
+      "tomaatti",
+      "chili",
+      "valkosipuli",
+      "fetajuusto",
+      "pasta",
+      "persilja",
+      "lime"
+    ]
+  },
+  {
+    "major": "18",
+    "minor": "3",
+    "file": "18_3.jpg",
+    "name": "Maukas borssikeitto palvatulla kinkulla",
+    "rate": 0,
+    "tags": [
+      "porkkana",
+      "punasipuli",
+      "valkosipuli",
+      "punakaali",
+      "laakerinlehti",
+      "palvikinkku",
+      "punajuuri",
+      "smetana"
+    ]
+  },
+  {
+    "major": "18",
+    "minor": "4",
+    "file": "18_4.jpg",
+    "name": "Ruokaboksin chicken-hawai pizza",
+    "rate": 0,
+    "tags": [
+      "punasipuli",
+      "ananas",
+      "pizza",
+      "juustoraste",
+      "kana",
+      "tomaattimurska",
+      "valkosipuli",
+      "rucolasalaatti",
+      "salaatti",
+      "tomaatti"
+    ]
+  },
+  {
+    "major": "19",
+    "minor": "1",
+    "file": "19_1.jpg",
+    "name": "Tikka Masala broilerista ruokaboksin tapaan & riisiä",
+    "rate": 0,
+    "tags": [
+      "broiler",
+      "riisi",
+      "punasipuli",
+      "valkosipuli",
+      "inkivääri",
+      "porkkana",
+      "pinaatti",
+      "file",
+      "tomaattipyre",
+      "kerma",
+      "korianteri",
+      "sitruuna",
+      "curry"
+    ]
+  },
+  {
+    "major": "19",
+    "minor": "2",
+    "file": "19_2.jpg",
+    "name": "Yhden pellin lihamureke ja paahdetut kasvikset",
+    "rate": 0,
+    "tags": [
+      "jauheliha",
+      "uunijuurekset",
+      "peruna",
+      "porkkana",
+      "kermaviili",
+      "kastike",
+      "sinappi",
+      "salaatti",
+      "tomaatti"
+    ]
+  },
+  {
+    "major": "19",
+    "minor": "3",
+    "file": "19_3.jpg",
+    "name": "Herkullinen pasta aurinkokuivatuilla tomaateilla ja kesäkurpitsalla",
+    "rate": 0,
+    "tags": [
+      "aurinkokuivattu tomaatti",
+      "pasta",
+      "punasipuli",
+      "valkosipuli",
+      "kesäkurpitsa",
+      "paprika",
+      "kerma",
+      "sitruuna",
+      "korianteri",
+      "parmesanjuusto"
+    ]
+  },
+  {
+    "major": "19",
+    "minor": "4",
+    "file": "19_4.jpg",
+    "name": "Tonnikala quesadillat & avokado-kastiketta",
+    "rate": 0,
+    "tags": [
+      "tomaatti",
+      "tonnikala",
+      "tortilla",
+      "juustoraste",
+      "avocado",
+      "jogurtti",
+      "lime"
+    ]
+  },
+  {
+    "major": "20",
+    "minor": "1",
+    "file": "20_1.jpg",
+    "name": "Paahdettu veriappelsiini-lohi, couscous & raikasta salaattia",
+    "rate": 0,
+    "tags": [
+      "lohi",
+      "valkosipuli",
+      "appelsiini",
+      "couscous",
+      "persilja",
+      "salaatti",
+      "jogurtti",
+      "sitruuna",
+      "kurkku"
+    ]
+  },
+  {
+    "major": "20",
+    "minor": "2",
+    "file": "20_2.jpg",
+    "name": "Maukas tomaattinen jauhelihakeitto",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "porkkana",
+      "lanttu",
+      "punasipuli",
+      "valkosipuli",
+      "laakerinlehti",
+      "nauta",
+      "jauheliha",
+      "tomaattipyre",
+      "kerma",
+      "persilja"
+    ]
+  },
+  {
+    "major": "20",
+    "minor": "3",
+    "file": "20_3.jpg",
+    "name": "Uunissa paahdettua broileria &kasviksia kermaviilikastikkeella",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "porkkana",
+      "kesäkurpitsa",
+      "punasipuli",
+      "broiler",
+      "leike",
+      "kermaviili",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "20",
+    "minor": "4",
+    "file": "20_4.jpg",
+    "name": "Ylikypsää naudanlihaa all'amatriciana & pastaa",
+    "rate": 0,
+    "tags": [
+      "sipuli",
+      "valkosipuli",
+      "fenkoli",
+      "poski",
+      "nauta",
+      "tomaatti",
+      "kapris",
+      "pasta",
+      "parmesanjuusto"
+    ]
+  },
+  {
+    "major": "21",
+    "minor": "1",
+    "file": "21_1.jpg",
+    "name": "Herkullinen kirjolohipasta",
+    "rate": 0,
+    "tags": [
+      "lohi",
+      "pasta",
+      "punasipuli",
+      "valkosipuli",
+      "kesäkurpitsa",
+      "tilli",
+      "kerma",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "21",
+    "minor": "2",
+    "file": "21_2.jpg",
+    "name": "Kermainen one pot kanapata uunissa",
+    "rate": 0,
+    "tags": [
+      "kana",
+      "kerma",
+      "pata",
+      "broiler",
+      "peruna",
+      "porkkana",
+      "punasipuli",
+      "valkosipuli",
+      "leike",
+      "salaatti",
+      "kurkku",
+      "tilli"
+    ]
+  },
+  {
+    "major": "21",
+    "minor": "3",
+    "file": "21_3.jpg",
+    "name": "Lempeän mausteinen halloumi-kasviscurry ja basmatiriisi",
+    "rate": 0,
+    "tags": [
+      "curry",
+      "kasvis",
+      "halloumjuusto",
+      "valkosipuli",
+      "inkivääri",
+      "porkkana",
+      "parsakaali",
+      "tomaattipyre",
+      "kookosmaito",
+      "sitruuna",
+      "riisi"
+    ]
+  },
+  {
+    "major": "21",
+    "minor": "4",
+    "file": "21_4.jpg",
+    "name": "Maukkaat pulled pork tacot",
+    "rate": 5,
+    "tags": [
+      "possu",
+      "kassler",
+      "bbq",
+      "kermaviili",
+      "lime",
+      "punakaali",
+      "tomaatti",
+      "chili",
+      "tortilla",
+      "lime"
+    ]
+  },
+  {
+    "major": "22",
+    "minor": "1",
+    "file": "22_1.jpg",
+    "name": "Pirteä appelsiininen fetapasta",
+    "rate": 0,
+    "tags": [
+      "appelsiini",
+      "fetajuusto",
+      "pasta",
+      "fenkoli",
+      "punasipuli",
+      "valkosipuli",
+      "chili",
+      "pinaatti",
+      "korianteri"
+    ]
+  },
+  {
+    "major": "22",
+    "minor": "2",
+    "file": "22_2.jpg",
+    "name": "Mausteinen chili con carne ja riisiä",
+    "rate": 0,
+    "tags": [
+      "broiler",
+      "jauheliha",
+      "riisi",
+      "sipuli",
+      "valkosipuli",
+      "chili",
+      "papu",
+      "tomaattipyre",
+      "tomaattimurska",
+      "korianteri"
+    ]
+  },
+  {
+    "major": "22",
+    "minor": "3",
+    "file": "22_3.jpg",
+    "name": "Pannulla paistetut jauhelihapihvit lempeällä pippurikastikkeella &keitetyt perunat",
+    "rate": 0,
+    "tags": [
+      "jauheliha",
+      "kastike",
+      "kerma",
+      "peruna",
+      "salaatti",
+      "paprika",
+      "sinappi"
+    ]
+  },
+  {
+    "major": "22",
+    "minor": "4",
+    "file": "22_4.jpg",
+    "name": "Uunissa paahdettuja bratwursteja, kasviksia & kermaviilikastike",
+    "rate": 0,
+    "tags": [
+      "uunijuurekset",
+      "bratwurst",
+      "peruna",
+      "porkkana",
+      "punasipuli",
+      "paprika",
+      "kermaviili",
+      "sinappi",
+      "lime",
+      "kastike"
+    ]
+  },
+  {
+    "major": "23",
+    "minor": "1",
+    "file": "23_1.jpg",
+    "name": "Paprikainen chorizopasta",
+    "rate": 0,
+    "tags": [
+      "valkosipuli",
+      "paprika",
+      "chorizo",
+      "tomaattipyre",
+      "timjami",
+      "kerma",
+      "minttu",
+      "sitruuna",
+      "pasta"
+    ]
+  },
+  {
+    "major": "23",
+    "minor": "2",
+    "file": "23_2.jpg",
+    "name": "Herkulliset halloumi-kasvispihvit jogurttikastikkeella sekä sitruunalla maustettua bulguria",
+    "rate": 0,
+    "tags": [
+      "halloumjuusto",
+      "kasvis",
+      "jogurtti",
+      "sitruuna",
+      "bulgur",
+      "kananmuna",
+      "vehnäjauho",
+      "porkkana",
+      "kesäkurpitsa",
+      "valkosipuli",
+      "minttu"
+    ]
+  },
+  {
+    "major": "23",
+    "minor": "3",
+    "file": "23_3.jpg",
+    "name": "Helppo jauheliha-stroganoff & murskattuja perunoita",
+    "rate": 0,
+    "tags": [
+      "nauta",
+      "jauheliha",
+      "peruna",
+      "sipuli",
+      "valkosipuli",
+      "porkkana",
+      "timjami",
+      "tomaattipyre",
+      "vehnäjauho",
+      "maustekurkku",
+      "smetana",
+      "salaatti",
+      "appelsiini"
+    ]
+  },
+  {
+    "major": "23",
+    "minor": "4",
+    "file": "23_4.jpg",
+    "name": "Herkullinen kylmäsavulohipizza",
+    "rate": 0,
+    "tags": [
+      "pizza",
+      "lohi",
+      "punasipuli",
+      "tomaatti",
+      "juustoraaste",
+      "tomaattimurska",
+      "rucolasalaatti"
+    ]
+  },
+  {
+    "major": "24",
+    "minor": "1",
+    "file": "24_1.jpg",
+    "name": "Paahdettua kirjolohta tillikurrutteella ja perunamuusia",
+    "rate": 0,
+    "tags": [
+      "lohi",
+      "peruna",
+      "tilli",
+      "ranskankerma",
+      "muusi",
+      "sinappi",
+      "kurkku",
+      "salaatti"
+    ]
+  },
+  {
+    "major": "24",
+    "minor": "2",
+    "file": "24_2.jpg",
+    "name": "Mausteinen possuwokki ja nuudeleita",
+    "rate": 4,
+    "tags": [
+      "possu",
+      "wokki",
+      "nuudeli",
+      "porkkana",
+      "valkokaali",
+      "punasipuli",
+      "valkosipuli",
+      "chili",
+      "paprika",
+      "inkivääri",
+      "suikale",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "24",
+    "minor": "3",
+    "file": "24_3.jpg",
+    "name": "Uunifetaa & paahdettuja kasviksia yrttisellä tomaattikastikkeella",
+    "rate": 0,
+    "tags": [
+      "uunijuurekset",
+      "fetajuusto",
+      "peruna",
+      "porkkana",
+      "kesäkurpitsa",
+      "tilli",
+      "sitruuna",
+      "mizuna",
+      "tomaattimurska",
+      "chili",
+      "valkosipuli"
+    ]
+  },
+  {
+    "major": "24",
+    "minor": "4",
+    "file": "24_4.jpg",
+    "name": "Karitsakoftat, kaurataboulleh & tsatsikia",
+    "rate": 5,
+    "tags": [
+      "kaurajyvä",
+      "tomaatti",
+      "kurkku",
+      "persilja",
+      "lime",
+      "karitsa",
+      "jauheliha",
+      "jogurtti",
+      "kurkku",
+      "valkosipuli",
+      "lime",
+      "hunaja",
+      "taboulleh"
+    ]
+  },
+  {
+    "major": "25",
+    "minor": "1",
+    "file": "25_1.jpg",
+    "name": "BBQ-paahdetut broilerinkoivet, rapeita lohkoperunoita ja salaattia",
+    "rate": 0,
+    "tags": [
+      "bbq",
+      "broiler",
+      "koipi",
+      "peruna",
+      "timjami",
+      "kermaviili",
+      "kastike",
+      "salaatti",
+      "tomaatti"
+    ]
+  },
+  {
+    "major": "25",
+    "minor": "2",
+    "file": "25_2.jpg",
+    "name": "Kermainen pasta salsiccia-makkarasta",
+    "rate": 0,
+    "tags": [
+      "salsicciamakkara",
+      "kerma",
+      "pasta",
+      "punasipuli",
+      "valkosipuli",
+      "fenkoli",
+      "pinaatti",
+      "kerma",
+      "sitruuna",
+      "persilja",
+      "makkara"
+    ]
+  },
+  {
+    "major": "25",
+    "minor": "3",
+    "file": "25_3.jpg",
+    "name": "Mausteinen tofu-kasviskeitto",
+    "rate": 0,
+    "tags": [
+      "tofu",
+      "kasvis",
+      "keitto",
+      "peruna",
+      "sipuli",
+      "valkosipuli",
+      "paprika",
+      "inkivääri",
+      "tomaattipyre",
+      "kookosmaito",
+      "sitruuna",
+      "persilja"
+    ]
+  },
+  {
+    "major": "25",
+    "minor": "4",
+    "file": "25_4.jpg",
+    "name": "Herkulliset jauheliha-tacot & raikasta tomaattisalsaa",
+    "rate": 0,
+    "tags": [
+      "jauheliha",
+      "nauta",
+      "taco",
+      "salsa",
+      "punasipuli",
+      "tomaatti",
+      "lime",
+      "korianteri",
+      "valkosipuli",
+      "mustapapu",
+      "paistos",
+      "ranskankerma",
+      "tortilla"
+    ]
+  },
+  {
+    "major": "26",
+    "minor": "1",
+    "file": "26_1.jpg",
+    "name": "Herkullinen jauheliha-kasviswokki & ateriajyviä",
+    "rate": 0,
+    "tags": [
+      "jauheliha",
+      "wokki",
+      "ateriajyvä",
+      "valkokaali",
+      "paprika",
+      "punasipuli",
+      "valkosipuli",
+      "inkivääri",
+      "chili",
+      "nauta",
+      "sitruuna",
+      "suolapähkinä",
+      "korianteri"
+    ]
+  },
+  {
+    "major": "26",
+    "minor": "2",
+    "file": "26_2.jpg",
+    "name": "Wanhanajan kermainen possupata perunamurskalla ja salaatilla",
+    "rate": 0,
+    "tags": [
+      "possu",
+      "suikale",
+      "kerma",
+      "kastike",
+      "peruna",
+      "sipuli",
+      "valkosipuli",
+      "porkkana",
+      "sinappi",
+      "vehnäjauho",
+      "salaatti",
+      "kurkku"
+    ]
+  },
+  {
+    "major": "26",
+    "minor": "3",
+    "file": "26_3.jpg",
+    "name": "Mausteinen kana-kookoskeitto nuudeleilla",
+    "rate": 0,
+    "tags": [
+      "kana",
+      "keitto",
+      "kookosmaito",
+      "nuudeli",
+      "porkkana",
+      "valkosipuli",
+      "chili",
+      "inkivääri",
+      "parsakaali",
+      "broiler",
+      "suikale",
+      "korianteri",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "26",
+    "minor": "4",
+    "file": "26_4.jpg",
+    "name": "Uuniperunoita savulohitäytteellä ja vihersalaattia",
+    "rate": 0,
+    "tags": [
+      "uuniperuna",
+      "lohi",
+      "salaatti",
+      "kapris",
+      "lime",
+      "jogurtti",
+      "sinappi",
+      "tomaatti"
+    ]
+  },
+  {
+    "major": "27",
+    "minor": "1",
+    "file": "27_1.jpg",
+    "name": "Pinaattinen pasta kirjolohella",
+    "rate": 0,
+    "tags": [
+      "pinaatti",
+      "pasta",
+      "lohi",
+      "punasipuli",
+      "valkosipuli",
+      "kerma",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "27",
+    "minor": "2",
+    "file": "27_2.jpg",
+    "name": "Uunikanaa Lyonin tapaan & riisiä",
+    "rate": 0,
+    "tags": [
+      "kana",
+      "broiler",
+      "riisi",
+      "tomaattipyre",
+      "pata",
+      "porkkana",
+      "valkosipuli",
+      "leike",
+      "persilja",
+      "kerma",
+      "salaatti",
+      "kurkku",
+      "ranskankerma"
+    ]
+  },
+  {
+    "major": "27",
+    "minor": "3",
+    "file": "27_3.jpg",
+    "name": "Mausteinen porkkana-inkiväärikeitto & paistetut kikherneet",
+    "rate": 0,
+    "tags": [
+      "porkkana",
+      "inkivääri",
+      "keitto",
+      "sipuli",
+      "valkosipuli",
+      "persilja",
+      "kookosmaito",
+      "sitruuna",
+      "kikherne"
+    ]
+  },
+  {
+    "major": "27",
+    "minor": "4",
+    "file": "27_4.jpg",
+    "name": "Nopea lihapata \\\"Stifado\\\" ja paahdettuja rosmariiniperunoita",
+    "rate": 0,
+    "tags": [
+      "nauta",
+      "peruna",
+      "pata",
+      "sipuli",
+      "valkosipuli",
+      "paprika",
+      "tomaattipyre",
+      "tomaattimurska"
+    ]
+  },
+  {
+    "major": "28",
+    "minor": "1",
+    "file": "28_1.jpg",
+    "name": "Maukas jauhelihatagine ja mintulla maustettua bulguria",
+    "rate": 0,
+    "tags": [
+      "jauheliha",
+      "nauta",
+      "bulgur",
+      "minttu",
+      "sipuli",
+      "valkosipuli",
+      "porkkana",
+      "chili",
+      "inkivääri",
+      "tomaattimurska",
+      "sitruuna",
+      "rusina"
+    ]
+  },
+  {
+    "major": "28",
+    "minor": "2",
+    "file": "28_2.jpg",
+    "name": "Porsaan filepihvejä, kermakastiketta & perunamurskaa",
+    "rate": 0,
+    "tags": [
+      "possu",
+      "file",
+      "pihvi",
+      "kerma",
+      "kastike",
+      "peruna",
+      "sinappi",
+      "salaatti",
+      "kurkku"
+    ]
+  },
+  {
+    "major": "28",
+    "minor": "3",
+    "file": "28_3.jpg",
+    "name": "Pirteä sitruunainen halloumipasta",
+    "rate": 0,
+    "tags": [
+      "sitruuna",
+      "halloumjuusto",
+      "pasta",
+      "punasipuli",
+      "valkosipuli",
+      "kesäkurpitsa",
+      "chili",
+      "minttu"
+    ]
+  },
+  {
+    "major": "28",
+    "minor": "4",
+    "file": "28_4.jpg",
+    "name": "Ruokaboksin hodarit, coleslaw, salaattia & paahdettuja veneperunoita",
+    "rate": 0,
+    "tags": [
+      "hotdog hodari",
+      "coleslaw",
+      "salaatti",
+      "peruna",
+      "paprika",
+      "punakaali",
+      "porkkana",
+      "omena",
+      "majoneesi",
+      "sinappi",
+      "sämpylä",
+      "nakki"
+    ]
+  },
+  {
+    "major": "29",
+    "minor": "1",
+    "file": "29_1.jpg",
+    "name": "Uunilohi inkivääri-kookoslieemessä & jasmiiniriisiä",
+    "rate": 0,
+    "tags": [
+      "lohi",
+      "inkivääri",
+      "kookosmaito",
+      "riisi",
+      "sipuli",
+      "paprika",
+      "tomaatti",
+      "korianteri"
+    ]
+  },
+  {
+    "major": "29",
+    "minor": "2",
+    "file": "29_2.jpg",
+    "name": "Pasta limonello tofulla Pipsan tapaan",
+    "rate": 0,
+    "tags": [
+      "pasta",
+      "sipuli",
+      "valkosipuli",
+      "inkivääri",
+      "chili",
+      "korianteri",
+      "tofu",
+      "kerma",
+      "sitruuna",
+      "parmesanjuusto",
+      "salaatti",
+      "kurkku"
+    ]
+  },
+  {
+    "major": "29",
+    "minor": "3",
+    "file": "29_3.jpg",
+    "name": "Mausteiset broilerpyörykät tomaattikastikkeessa ja pinaatti-perunamurskaa",
+    "rate": 0,
+    "tags": [
+      "broiler",
+      "jauheliha",
+      "tomaattimurska",
+      "pinaatti",
+      "peruna",
+      "kananmuna",
+      "valkosipuli",
+      "chili",
+      "pinaatti",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "29",
+    "minor": "4",
+    "file": "29_4.jpg",
+    "name": "BBQ pulled pork burgerit ja lanttiperunoita",
+    "rate": 5,
+    "tags": [
+      "peruna",
+      "timjami",
+      "coleslaw",
+      "burger",
+      "omena",
+      "porkkana",
+      "valkokaali",
+      "majoneesi",
+      "possu",
+      "kassler",
+      "bbq",
+      "sämpylä"
+    ]
+  },
+  {
+    "major": "30",
+    "minor": "1",
+    "file": "30_1.jpg",
+    "name": "Mausteiset teriyaki-jauhelihanuudelit",
+    "rate": 0,
+    "tags": [
+      "inkivääri",
+      "valkosipuli",
+      "chili",
+      "jauheliha",
+      "nuudeli",
+      "porkkana",
+      "kesäkurpitsa",
+      "persilja",
+      "nauta",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "30",
+    "minor": "2",
+    "file": "30_2.jpg",
+    "name": "Ruokaisa maalaisssalaatti paahdetulla pekonilla ja keitetyillä kananmunilla",
+    "rate": 0,
+    "tags": [
+      "kananmuna",
+      "kurkku",
+      "tomaatti",
+      "maissi",
+      "salaatti",
+      "pekoni",
+      "kermaviili",
+      "persilja",
+      "sinappi"
+    ]
+  },
+  {
+    "major": "30",
+    "minor": "3",
+    "file": "30_3.jpg",
+    "name": "Maukasta butter chickeniä ja riisiä",
+    "rate": 0,
+    "tags": [
+      "inkivääri",
+      "valkosipuli",
+      "chili",
+      "sipuli",
+      "paprika",
+      "broiler",
+      "leike",
+      "tomaattipyre",
+      "tomaatti",
+      "sitruuna",
+      "riisi"
+    ]
+  },
+  {
+    "major": "30",
+    "minor": "4",
+    "file": "30_4.jpg",
+    "name": "Herkullinen parsa-fetapasta",
+    "rate": 0,
+    "tags": [
+      "pasta",
+      "parsa",
+      "punasipuli",
+      "valkosipuli",
+      "lime",
+      "minttu",
+      "fetajuusto"
+    ]
+  },
+  {
+    "major": "31",
+    "minor": "1",
+    "file": "31_1.jpg",
+    "name": "Mausteinen makkarastroganoff, perunoita & raikasta salaattia",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "purjo",
+      "valkosipuli",
+      "makkara",
+      "tomaattipyre",
+      "vehnäjauho",
+      "maustekurkku",
+      "ranskankerma"
+    ]
+  },
+  {
+    "major": "31",
+    "minor": "2",
+    "file": "31_2.jpg",
+    "name": "Maukas uunifeta-juuressalaatti & marinoitua rucolaa",
+    "rate": 0,
+    "tags": [
+      "punasipuli",
+      "valkosipuli",
+      "fenkoli",
+      "paprika",
+      "bataatti",
+      "linssi",
+      "fetajuusto",
+      "sitruuna",
+      "sinappi",
+      "korianteri"
+    ]
+  },
+  {
+    "major": "31",
+    "minor": "3",
+    "file": "31_3.jpg",
+    "name": "Pikainen ja herkullinen kanapasta",
+    "rate": 0,
+    "tags": [
+      "purjo",
+      "valkosipuli",
+      "parsakaali",
+      "broiler",
+      "file",
+      "suikale",
+      "kerma",
+      "korianteri",
+      "sitruuna",
+      "pasta",
+      "parmesanjuusto"
+    ]
+  },
+  {
+    "major": "31",
+    "minor": "4",
+    "file": "31_4.jpg",
+    "name": "Uunissa gratinoidut jauheliha-kesäkurpitsaveneet & riisiä",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "makkara",
+      "purjo",
+      "valkosipuli",
+      "tomaattipyre",
+      "vehnäjauho",
+      "maustekurkku",
+      "ranskankerma",
+      "salaatti",
+      "kurkku"
+    ]
+  },
+  {
+    "major": "32",
+    "minor": "1",
+    "file": "32_1.jpg",
+    "name": "Fenkolilla maustettu kermainen kirjolohikeitto",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "sipuli",
+      "fenkoli",
+      "laakerinlehti",
+      "lohi",
+      "kerma",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "32",
+    "minor": "2",
+    "file": "32_2.jpg",
+    "name": "Maukas kana-avokadobowl",
+    "rate": 0,
+    "tags": [
+      "lehtikaali",
+      "tomaatti",
+      "avocado",
+      "broiler",
+      "file",
+      "chili",
+      "minttu",
+      "jogurtti",
+      "sitruuna",
+      "hirssi"
+    ]
+  },
+  {
+    "major": "32",
+    "minor": "3",
+    "file": "32_3.jpg",
+    "name": "Mausteinen kukkakaali-kikhernecurry ja riisiä",
+    "rate": 0,
+    "tags": [
+      "punasipuli",
+      "valkosipuli",
+      "chili",
+      "inkivääri",
+      "kukkakaali",
+      "kikherne",
+      "kerma",
+      "minttu",
+      "pinaatti",
+      "sitruuna",
+      "riisi"
+    ]
+  },
+  {
+    "major": "32",
+    "minor": "4",
+    "file": "32_4.jpg",
+    "name": "Ruokaboksin chili dogit ja paahdetut lohkoperunat",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "timjami",
+      "valkosipuli",
+      "chili",
+      "nauta",
+      "jauheliha",
+      "tomaattimurska",
+      "korianteri",
+      "valkokaali",
+      "porkkana",
+      "sämpylä",
+      "lime",
+      "ranskankerma"
+    ]
+  },
+  {
+    "major": "33",
+    "minor": "1",
+    "file": "33_1.jpg",
+    "name": "Raikas lohisalaatti, lime-jogurttikastiketta & ruokaisia jyviä",
+    "rate": 0,
+    "tags": [
+      "ateriajyvä",
+      "tomaatti",
+      "kesäsipuli",
+      "lime",
+      "jogurtti",
+      "sinappi",
+      "lohi",
+      "salaatti",
+      "siemenet"
+    ]
+  },
+  {
+    "major": "33",
+    "minor": "2",
+    "file": "33_2.jpg",
+    "name": "Itämaista kooosbroileria & täysjyvänuudeleita",
+    "rate": 0,
+    "tags": [
+      "kesäsipuli",
+      "valkosipuli",
+      "inkivääri",
+      "chili",
+      "parsakaali",
+      "broiler",
+      "suikale",
+      "kookosmaito",
+      "sitruuna",
+      "korianteri",
+      "nuudeli"
+    ]
+  },
+  {
+    "major": "33",
+    "minor": "3",
+    "file": "33_3.jpg",
+    "name": "Uunibataatit mausteisella delikaurapaistoksella & chilikurkkuja",
+    "rate": 0,
+    "tags": [
+      "bataatti",
+      "paprika",
+      "delikaura",
+      "kurkku",
+      "chili",
+      "kesäsipuli",
+      "korianteri",
+      "sitruuna",
+      "ranskankerma"
+    ]
+  },
+  {
+    "major": "33",
+    "minor": "4",
+    "file": "33_4.jpg",
+    "name": "Espanjalainen chorizo-lehtikaalipasta",
+    "rate": 0,
+    "tags": [
+      "punasipuli",
+      "valkosipuli",
+      "tomaatti",
+      "lehtikaali",
+      "chorizo",
+      "makkara",
+      "tomaattipyre",
+      "kerma",
+      "pasta",
+      "parmesanjuusto"
+    ]
+  },
+  {
+    "major": "34",
+    "minor": "1",
+    "file": "34_1.jpg",
+    "name": "Helppo jauhelihastroganoff & kesäperunoita",
+    "rate": 0,
+    "tags": [
+      "kesäsipuli",
+      "valkosipuli",
+      "porkkana",
+      "nauta",
+      "jauheliha",
+      "tomaattipyre",
+      "vehnäjauho",
+      "maustekurkku",
+      "smetana",
+      "peruna",
+      "salaatti",
+      "kurkku"
+    ]
+  },
+  {
+    "major": "34",
+    "minor": "2",
+    "file": "34_2.jpg",
+    "name": "Kreikkalainen fetasalaatti & bulguria",
+    "rate": 0,
+    "tags": [
+      "bulgur",
+      "kesäsipuli",
+      "minttu",
+      "sitruuna",
+      "tomaatti",
+      "paprika",
+      "kurkku",
+      "oliivi",
+      "fetajuusto"
+    ]
+  },
+  {
+    "major": "34",
+    "minor": "3",
+    "file": "34_3.jpg",
+    "name": "Mausteinen makkaka one pot ruokaboksin tapaan",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "porkkana",
+      "makkara",
+      "lehtikaali",
+      "jogurtti",
+      "minttu",
+      "sinappi",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "34",
+    "minor": "4",
+    "file": "34_4.jpg",
+    "name": "Herkulliset kana-caesar wrapit tomaattisalsalla",
+    "rate": 0,
+    "tags": [
+      "valkosipuli",
+      "broiler",
+      "file",
+      "suikale",
+      "ceasarkastike",
+      "tomaatti",
+      "lime",
+      "korianteri",
+      "salaatti",
+      "tortilla",
+      "korianteri"
+    ]
+  },
+  {
+    "major": "35",
+    "minor": "1",
+    "file": "35_1.jpg",
+    "name": "Pannulla rapeaksi paistettua kirjolohta, perunoita & kermaviilikastiketta",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "salaatti",
+      "tomaatti",
+      "kermaviili",
+      "sinappi",
+      "sitruuna",
+      "lohi"
+    ]
+  },
+  {
+    "major": "35",
+    "minor": "2",
+    "file": "35_2.jpg",
+    "name": "Mausteinen chili con carne & jasmiiniriisiä",
+    "rate": 0,
+    "tags": [
+      "porkkana",
+      "sipuli",
+      "valkosipuli",
+      "chili",
+      "papu",
+      "broiler",
+      "jauheliha",
+      "tomaattipyre",
+      "tomaattimurska",
+      "korianteri",
+      "riisi"
+    ]
+  },
+  {
+    "major": "35",
+    "minor": "3",
+    "file": "35_3.jpg",
+    "name": "Paahdettu lehtikaali-linssisalaatti korianteri-kurkulla & feta-jogurttia",
+    "rate": 0,
+    "tags": [
+      "linssi",
+      "punasipuli",
+      "porkkana",
+      "paprika",
+      "lehtikaali",
+      "sitruuna",
+      "kurkku",
+      "korianteri",
+      "fetajuusto",
+      "jogurtti"
+    ]
+  },
+  {
+    "major": "35",
+    "minor": "4",
+    "file": "35_4.jpg",
+    "name": "Herkulliset juustohampparit ja paahdettuja rosmariiniperunoita",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "tomaatti",
+      "salaatti",
+      "sämpylä",
+      "majoneesi",
+      "sinappi",
+      "nauta",
+      "jauheliha",
+      "cheddarjuusto"
+    ]
+  },
+  {
+    "major": "36",
+    "minor": "1",
+    "file": "36_1.jpg",
+    "name": "Pannulla paistetut jauhelihapihvit lempeällä pippurikastikkeella & keitetyt perunat",
+    "rate": 0,
+    "tags": [
+      "jauheliha",
+      "kerma",
+      "sinappi",
+      "peruna",
+      "salaatti",
+      "tomaatti",
+      "persilja"
+    ]
+  },
+  {
+    "major": "36",
+    "minor": "2",
+    "file": "36_2.jpg",
+    "name": "Inkiväärillä maustettu kookokosinen kastike tofulla & riisillä",
+    "rate": 0,
+    "tags": [
+      "punasipuli",
+      "porkkana",
+      "valkosipuli",
+      "inkivääri",
+      "chili",
+      "paprika",
+      "tofu",
+      "kookosmaito",
+      "sitruuna",
+      "persilja",
+      "riisi"
+    ]
+  },
+  {
+    "major": "36",
+    "minor": "3",
+    "file": "36_3.jpg",
+    "name": "Helppo maukas yhden pellin uunibroileri & kasvikset sekä kermaviilikastiketta",
+    "rate": 5,
+    "tags": [
+      "peruna",
+      "porkkana",
+      "punasipuli",
+      "parsakaali",
+      "chili",
+      "sitruuna",
+      "broiler",
+      "leike",
+      "kermaviili",
+      "sinappi"
+    ]
+  },
+  {
+    "major": "36",
+    "minor": "4",
+    "file": "36_4.jpg",
+    "name": "Herkullinen lämminsavulohi kulho bulgurilla, marinoidulla kaalilla & raikasta jogurttikastiketta",
+    "rate": 0,
+    "tags": [
+      "bulgur",
+      "lime",
+      "punakaali",
+      "jogurtti",
+      "korianteri",
+      "lime",
+      "hunaja",
+      "kurkku",
+      "lohi",
+      "korianteri",
+      "siemenet"
+    ]
+  },
+  {
+    "major": "37",
+    "minor": "1",
+    "file": "37_1.jpg",
+    "name": "BBQ-paahdettua uunilohta & rosmariiniperunoita sekä salaattia",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "salaatti",
+      "tomaatti",
+      "lohi",
+      "bbq"
+    ]
+  },
+  {
+    "major": "37",
+    "minor": "2",
+    "file": "37_2.jpg",
+    "name": "Kermainen kana-lehtikaalipasta",
+    "rate": 0,
+    "tags": [
+      "valkosipuli",
+      "lehtikaali",
+      "tomaatti",
+      "broiler",
+      "file",
+      "suikale",
+      "kerma",
+      "minttu",
+      "sitruuna",
+      "pasta",
+      "cheddarjuusto"
+    ]
+  },
+  {
+    "major": "37",
+    "minor": "3",
+    "file": "37_3.jpg",
+    "name": "Herkulliset Hallajuusto-kasvisfritterit & murskattuja perunoita sekä minttujogurttia",
+    "rate": 0,
+    "tags": [
+      "kananmuna",
+      "vehnäjauho",
+      "kesäkurpitsa",
+      "porkkana",
+      "valkosipuli",
+      "halloumjuusto",
+      "peruna",
+      "jogurtti",
+      "minttu",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "37",
+    "minor": "4",
+    "file": "37_4.jpg",
+    "name": "Maukkaat karitsakoftata, kaurataboulleh &tsatsikia",
+    "rate": 0,
+    "tags": [
+      "kaurajyvä",
+      "tomaatti",
+      "kurkku",
+      "persilja",
+      "lime",
+      "karitsa",
+      "jauheliha",
+      "jogurtti",
+      "kurkku",
+      "valkosipuli",
+      "lime",
+      "hunaja",
+      "persilja"
+    ]
+  },
+  {
+    "major": "38",
+    "minor": "1",
+    "file": "38_1.jpg",
+    "name": "Pannulla paistettua kirjolohta, murskattuja perunoita & yrttijogurttia",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "jogurtti",
+      "persilja",
+      "salaatti",
+      "kurkku",
+      "lohi",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "38",
+    "minor": "2",
+    "file": "38_2.jpg",
+    "name": "Italialaista pestokanaa, caponata-kasviksia & pastaa",
+    "rate": 0,
+    "tags": [
+      "valkosipuli",
+      "sipuli",
+      "porkkana",
+      "kesäkurpitsa",
+      "tomaatti",
+      "broiler",
+      "leike",
+      "pesto",
+      "pasta"
+    ]
+  },
+  {
+    "major": "38",
+    "minor": "3",
+    "file": "38_3.jpg",
+    "name": "Miedosti mausteinen Halloumi-kasviscurry & basmatiriisiä",
+    "rate": 0,
+    "tags": [
+      "halloumjuusto",
+      "valkosipuli",
+      "inkivääri",
+      "porkkana",
+      "parsakaali",
+      "tomaattipyre",
+      "kookosmaito",
+      "persilja",
+      "sitruuna",
+      "riisi"
+    ]
+  },
+  {
+    "major": "38",
+    "minor": "4",
+    "file": "38_4.jpg",
+    "name": "Ruokaboksin pizza Tropicana",
+    "rate": 0,
+    "tags": [
+      "ananas",
+      "kinkku",
+      "pizza",
+      "juustoraaste",
+      "tomaattimurska",
+      "valkosipuli",
+      "sinappi",
+      "tomaatti",
+      "rucolasalaatti"
+    ]
+  },
+  {
+    "major": "39",
+    "minor": "1",
+    "file": "39_1.jpg",
+    "name": "Mausteinen jauheliha-kasviswokki & kaurajyviä",
+    "rate": 0,
+    "tags": [
+      "valkokaali",
+      "paprika",
+      "punasipuli",
+      "valkosipuli",
+      "inkivääri",
+      "chili",
+      "jauheliha",
+      "nauta",
+      "sitruuna",
+      "minttu",
+      "suolapähkinä",
+      "ateriajyvä"
+    ]
+  },
+  {
+    "major": "39",
+    "minor": "2",
+    "file": "39_2.jpg",
+    "name": "Kermainen sienipasta",
+    "rate": 0,
+    "tags": [
+      "punasipuli",
+      "valkosipuli",
+      "chili",
+      "lehtikaali",
+      "sieni",
+      "kerma",
+      "sitruuna",
+      "pasta"
+    ]
+  },
+  {
+    "major": "39",
+    "minor": "3",
+    "file": "39_3.jpg",
+    "name": "Paahdettuja broilerinkoipia, uunikasviksia & minttujugurttia",
+    "rate": 0,
+    "tags": [
+      "broiler",
+      "koipi",
+      "peruna",
+      "porkkana",
+      "fenkoli",
+      "jogurtti",
+      "minttu",
+      "hunaja",
+      "salaatti",
+      "omena"
+    ]
+  },
+  {
+    "major": "39",
+    "minor": "4",
+    "file": "39_4.jpg",
+    "name": "Maukkaat pulled pork tacot",
+    "rate": 4,
+    "tags": [
+      "possu",
+      "kassler",
+      "bbq",
+      "punakaali",
+      "tomaatti",
+      "chili",
+      "tortilla",
+      "ranskankerma"
+    ]
+  },
+  {
+    "major": "40",
+    "minor": "1",
+    "file": "40_1.jpg",
+    "name": "Uunissa paahdettua kirjolohta välimeren tapaan, couscousia & salaattia",
+    "rate": 0,
+    "tags": [
+      "valkosipuli",
+      "kesäkurpitsa",
+      "chili",
+      "kapris",
+      "aurinkokuivattu tomaatti",
+      "tomaatti",
+      "persilja",
+      "sitruuna",
+      "lohi",
+      "couscous",
+      "salaatti",
+      "kurkku"
+    ]
+  },
+  {
+    "major": "40",
+    "minor": "2",
+    "file": "40_2.jpg",
+    "name": "Täyteläinen kasvissosekeitto & raejuustoa sekä saaristolaisleipää",
+    "rate": 2,
+    "tags": [
+      "peruna",
+      "purjo",
+      "valkosipuli",
+      "kerma",
+      "sitruuna",
+      "raejuusto"
+    ]
+  },
+  {
+    "major": "40",
+    "minor": "3",
+    "file": "40_3.jpg",
+    "name": "Broileria mausteisessa kookoskastikkeessa & riisiä",
+    "rate": 0,
+    "tags": [
+      "riisi",
+      "purjo",
+      "valkosipuli",
+      "inkivääri",
+      "chili",
+      "porkkana",
+      "broiler",
+      "file",
+      "suikale",
+      "kookosmaito",
+      "persilja"
+    ]
+  },
+  {
+    "major": "40",
+    "minor": "4",
+    "file": "40_4.jpg",
+    "name": "Ruokaboksin mausteiset jauheliha hot dogit & paahdettuja lohkoperunoita",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "valkosipuli",
+      "nauta",
+      "jauheliha",
+      "ranskankerma",
+      "lime",
+      "tomaatti",
+      "korianteri",
+      "sämpylä"
+    ]
+  },
+  {
+    "major": "41",
+    "minor": "1",
+    "file": "41_1.jpg",
+    "name": "Pipsan uunilohi inivääri-kookosliemessä & jasmiiniriisä",
+    "rate": 4,
+    "tags": [
+      "sipuli",
+      "valkosipuli",
+      "inkivääri",
+      "paprika",
+      "tomaatti",
+      "lime",
+      "lohi",
+      "kookosmaito",
+      "riisi",
+      "korianteri"
+    ]
+  },
+  {
+    "major": "41",
+    "minor": "2",
+    "file": "41_2.jpg",
+    "name": "Välimeren tomaattinen kesäkurpitsa-fetapasta & täysjyväspagettia",
+    "rate": 0,
+    "tags": [
+      "sipuli",
+      "valkosipuli",
+      "kesäkurpitsa",
+      "paprika",
+      "tomaattipyre",
+      "tomaattimurska",
+      "hunaja",
+      "fetajuusto",
+      "korianteri",
+      "pasta"
+    ]
+  },
+  {
+    "major": "41",
+    "minor": "3",
+    "file": "41_3.jpg",
+    "name": "Mehevä one pot kanapata",
+    "rate": 4,
+    "tags": [
+      "peruna",
+      "porkkana",
+      "punasipuli",
+      "valkosipuli",
+      "broiler",
+      "leike",
+      "kerma",
+      "salaatti",
+      "kurkku"
+    ]
+  },
+  {
+    "major": "41",
+    "minor": "4",
+    "file": "41_4.jpg",
+    "name": "Ruokaboksin pitakebab",
+    "rate": 4,
+    "tags": [
+      "punakaali",
+      "punasipuli",
+      "lime",
+      "jogurtti",
+      "valkosipuli",
+      "kebablastu",
+      "tomaatti",
+      "kurkku",
+      "pitaleipä"
+    ]
+  },
+  {
+    "major": "42",
+    "minor": "1",
+    "file": "42_1.jpg",
+    "name": "Värikäs kirjolohi-kasvispannu, minttukastiketta & salaattia",
+    "rate": 4,
+    "tags": [
+      "lohi",
+      "peruna",
+      "parsakaali",
+      "tomaatti",
+      "valkosipuli",
+      "kermaviili",
+      "minttu",
+      "sinappi",
+      "salaatti"
+    ]
+  },
+  {
+    "major": "42",
+    "minor": "2",
+    "file": "42_2.jpg",
+    "name": "Tomaattinen palak paneer & riisiä",
+    "rate": 4,
+    "tags": [
+      "sipuli",
+      "valkosipuli",
+      "chili",
+      "porkkana",
+      "leipäjuusto",
+      "inkivääri",
+      "pinaatti",
+      "tomaatti",
+      "kerma",
+      "minttu",
+      "riisi"
+    ]
+  },
+  {
+    "major": "42",
+    "minor": "3",
+    "file": "42_3.jpg",
+    "name": "Mausteinen broilerkeitto nuudeleilla",
+    "rate": 0,
+    "tags": [
+      "keitto",
+      "broiler",
+      "jauheliha",
+      "valkosipuli",
+      "inkivääri",
+      "chili",
+      "porkkana",
+      "paprika",
+      "soija",
+      "kookosmaito",
+      "nuudeli"
+    ]
+  },
+  {
+    "major": "42",
+    "minor": "4",
+    "file": "42_4.jpg",
+    "name": "Ruokaboksin nopea jauhelihalasagne",
+    "rate": 0,
+    "tags": [
+      "valkosipuli",
+      "porkkana",
+      "nauta",
+      "jauheliha",
+      "tomaattipyre",
+      "tomaattimurska",
+      "lasagnelevy",
+      "tuorejuusto",
+      "parmesanjuusto",
+      "rucolasalaatti"
+    ]
+  },
+  {
+    "major": "43",
+    "minor": "1",
+    "file": "43_1.jpg",
+    "name": "Lempeän mausteinen lohicurry & jasmiiniriisiä",
+    "rate": 0,
+    "tags": [
+      "valkosipuli",
+      "porkkana",
+      "inkivääri",
+      "chili",
+      "parsakaali",
+      "lohi",
+      "soija",
+      "kookosmaito",
+      "sitruuna",
+      "riisi"
+    ]
+  },
+  {
+    "major": "43",
+    "minor": "2",
+    "file": "43_2.jpg",
+    "name": "Sitruksinen gremoltabroileri & pastaa",
+    "rate": 0,
+    "tags": [
+      "valkosipuli",
+      "persilja",
+      "sitruuna",
+      "broiler",
+      "leike",
+      "chili",
+      "lehtikaali",
+      "pasta",
+      "tomaatti",
+      "parmesanjuusto"
+    ]
+  },
+  {
+    "major": "43",
+    "minor": "3",
+    "file": "43_3.jpg",
+    "name": "Perunasalaatti paahdetuista perunoista & paistettua Halloumjuustoa",
+    "rate": 4,
+    "tags": [
+      "peruna",
+      "punasipuli",
+      "omena",
+      "kapris",
+      "sinappi",
+      "persilja",
+      "salaatti",
+      "halloumjuusto"
+    ]
+  },
+  {
+    "major": "43",
+    "minor": "4",
+    "file": "43_4.jpg",
+    "name": "Mehevät karitsaburgerit, kaali-omenaslawta & rapeita lanttiperunoita",
+    "rate": 5,
+    "tags": [
+      "peruna",
+      "punakaali",
+      "omena",
+      "sinappi",
+      "lime",
+      "jogurtti",
+      "minttu",
+      "karitsa",
+      "sämpylä"
+    ]
+  },
+  {
+    "major": "44",
+    "minor": "1",
+    "file": "44_1.jpg",
+    "name": "Herkullinen salsiccia-makkarapasta",
+    "rate": 0,
+    "tags": [
+      "punasipuli",
+      "valkosipuli",
+      "fenkoli",
+      "pinaatti",
+      "makkara",
+      "kerma",
+      "pasta"
+    ]
+  },
+  {
+    "major": "44",
+    "minor": "2",
+    "file": "44_2.jpg",
+    "name": "Itämainen jauhelihawokki, riisä & porkkana-appelsiinisalaattia",
+    "rate": 0,
+    "tags": [
+      "inkivääri",
+      "valkosipuli",
+      "chili",
+      "soija",
+      "valkokaali",
+      "nauta",
+      "jauheliha",
+      "korianteri",
+      "porkkana",
+      "appelsiini",
+      "riisi"
+    ]
+  },
+  {
+    "major": "44",
+    "minor": "3",
+    "file": "44_3.jpg",
+    "name": "Paahdettuja kasviksia, fetaa & mausteista tomaattikastiketta",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "porkkana",
+      "kesäkurpitsa",
+      "fetajuusto",
+      "korianteri",
+      "chili",
+      "valkosipuli",
+      "tomaattimurska"
+    ]
+  },
+  {
+    "major": "44",
+    "minor": "4",
+    "file": "44_4.jpg",
+    "name": "Ruokaboksin chicken nachopelti",
+    "rate": 4,
+    "tags": [
+      "kana",
+      "bbq",
+      "kastike",
+      "cheddarjuusto",
+      "maissilastu",
+      "salaatti",
+      "avocado",
+      "punasipuli",
+      "tomaatti",
+      "salsa"
+    ]
+  },
+  {
+    "major": "45",
+    "minor": "1",
+    "file": "45_1.jpg",
+    "name": "Ruokaboksin pollo limonello",
+    "rate": 0,
+    "tags": [
+      "sipuli",
+      "valkosipuli",
+      "inkivääri",
+      "paprika",
+      "chili",
+      "broiler",
+      "file",
+      "suikale",
+      "hunaja",
+      "soija",
+      "jogurtti",
+      "sitruuna",
+      "minttu",
+      "pasta"
+    ]
+  },
+  {
+    "major": "45",
+    "minor": "2",
+    "file": "45_2.jpg",
+    "name": "One pot pelti smoky beef makkaralla & sesongin paahdetuilla juureksilla",
+    "rate": 4,
+    "tags": [
+      "peruna",
+      "porkkana",
+      "valkokaali",
+      "chili",
+      "makkara",
+      "kermaviili",
+      "minttu",
+      "sinappi",
+      "sitruuna",
+      "rucolasalaatti"
+    ]
+  },
+  {
+    "major": "45",
+    "minor": "3",
+    "file": "45_3.jpg",
+    "name": "Täyteläinen palsternakkakeitto & ruisleipää",
+    "rate": 0,
+    "tags": [
+      "palsternakka",
+      "peruna",
+      "sipuli",
+      "valkosipuli",
+      "omena",
+      "kerma"
+    ]
+  },
+  {
+    "major": "45",
+    "minor": "4",
+    "file": "45_4.jpg",
+    "name": "Mausteista karamellipossua & jasmiiniriisiä",
+    "rate": 5,
+    "tags": [
+      "possu",
+      "kassler",
+      "valkosipuli",
+      "chili",
+      "soija",
+      "korianteri",
+      "lime",
+      "appelsiini",
+      "punasipuli",
+      "korianteri",
+      "riisi"
+    ]
+  },
+  {
+    "major": "46",
+    "minor": "1",
+    "file": "46_1.jpg",
+    "name": "Paahdettua tandoorilohta, perunoita & kaalisalaattia",
+    "rate": 4,
+    "tags": [
+      "peruna",
+      "punakaali",
+      "porkkana",
+      "lohi",
+      "tandooritahna"
+    ]
+  },
+  {
+    "major": "46",
+    "minor": "2",
+    "file": "46_2.jpg",
+    "name": "Mausteinen jauhelihapaistos & jogurttia",
+    "rate": 4,
+    "tags": [
+      "sipuli",
+      "valkosipuli",
+      "paprika",
+      "tomaatti",
+      "porkkana",
+      "chili",
+      "jauheliha",
+      "couscous",
+      "jogurtti"
+    ]
+  },
+  {
+    "major": "46",
+    "minor": "3",
+    "file": "46_3.jpg",
+    "name": "Fried noodles ruokaboksin tapaan",
+    "rate": 4,
+    "tags": [
+      "chili",
+      "lime",
+      "soija",
+      "lehtikaali",
+      "porkkana",
+      "valkosipuli",
+      "nuudeli",
+      "kananmuna",
+      "suolapähkinä"
+    ]
+  },
+  {
+    "major": "46",
+    "minor": "4",
+    "file": "46_4.jpg",
+    "name": "Maukkaat kanacaesar wrapit tomaattisalsalla",
+    "rate": 4,
+    "tags": [
+      "valkosipuli",
+      "broiler",
+      "file",
+      "suikale",
+      "tomaatti",
+      "punasipuli",
+      "lime",
+      "korianteri",
+      "salaatti",
+      "tortilla"
+    ]
+  },
+  {
+    "major": "47",
+    "minor": "1",
+    "file": "47_1.jpg",
+    "name": "Sitruunaisella creme fraichella kuorrutettua kirjolohta & murskattuja perunoita",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "ranskankerma",
+      "purjo",
+      "sitruuna",
+      "sinappi",
+      "lohi",
+      "salaatti",
+      "kurkku"
+    ]
+  },
+  {
+    "major": "47",
+    "minor": "2",
+    "file": "47_2.jpg",
+    "name": "Kung po kanaa & riisiä",
+    "rate": 4,
+    "tags": [
+      "valkosipuli",
+      "inkivääri",
+      "chili",
+      "purjo",
+      "paprika",
+      "broiler",
+      "file",
+      "suikale",
+      "korianteri",
+      "suolapähkinä",
+      "soija",
+      "riisi"
+    ]
+  },
+  {
+    "major": "47",
+    "minor": "3",
+    "file": "47_3.jpg",
+    "name": "Kreikkalainen salaatti fetajuustolla",
+    "rate": 4,
+    "tags": [
+      "kvinoa",
+      "korianteri",
+      "chili",
+      "sitruuna",
+      "punasipuli",
+      "tomaatti",
+      "paprika",
+      "kurkku",
+      "fetajuusto",
+      "oliivi",
+      "hunaja"
+    ]
+  },
+  {
+    "major": "47",
+    "minor": "4",
+    "file": "47_4.jpg",
+    "name": "Ruokaboksin hodarit, coleslawta & paahdettuja perunoita",
+    "rate": 4,
+    "tags": [
+      "peruna",
+      "valkokaali",
+      "porkkana",
+      "majoneesi",
+      "sinappi",
+      "hotdog hodari",
+      "sämpylä",
+      "nakki",
+      "chili"
+    ]
+  },
+  {
+    "major": "48",
+    "minor": "1",
+    "file": "48_1.jpg",
+    "name": "Sitruunainen kylmäsavulohipasta",
+    "rate": 0,
+    "tags": [
+      "punasipuli",
+      "valkosipuli",
+      "kesäkurpitsa",
+      "lohi",
+      "kerma",
+      "sitruuna",
+      "tilli",
+      "pasta"
+    ]
+  },
+  {
+    "major": "48",
+    "minor": "2",
+    "file": "48_2.jpg",
+    "name": "Lempeän tulinen makkarapata, murskattuja perunoita & salaattia",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "sitruuna",
+      "sipuli",
+      "valkosipuli",
+      "porkkana",
+      "paprika",
+      "makkara",
+      "tomaattimurska",
+      "salaatti",
+      "kurkku"
+    ]
+  },
+  {
+    "major": "48",
+    "minor": "3",
+    "file": "48_3.jpg",
+    "name": "Ruokaboksin chiccken tikka masala & riisiä",
+    "rate": 0,
+    "tags": [
+      "punasipuli",
+      "valkosipuli",
+      "inkivääri",
+      "porkkana",
+      "broiler",
+      "file",
+      "suikale",
+      "tomaattipyre",
+      "kerma",
+      "kurkku",
+      "omena",
+      "tilli",
+      "riisi"
+    ]
+  },
+  {
+    "major": "48",
+    "minor": "4",
+    "file": "48_4.jpg",
+    "name": "Perinteiset pannupihvit, karamellisoitua sipulia & paahdettuja perunoita",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "salaatti",
+      "tomaatti",
+      "sipuli",
+      "jauheliha",
+      "puolukkahillo"
+    ]
+  },
+  {
+    "major": "49",
+    "minor": "1",
+    "file": "49_1.jpg",
+    "name": "Fenkolilla maustettu kermainen kirjolohikeitto",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "porkkana",
+      "sipuli",
+      "fenkoli",
+      "lohi",
+      "kerma",
+      "sitruuna",
+      "keitto"
+    ]
+  },
+  {
+    "major": "49",
+    "minor": "2",
+    "file": "49_2.jpg",
+    "name": "Herkullinen kanapasta aurinkokuivatuilla tomaateilla",
+    "rate": 0,
+    "tags": [
+      "valkosipuli",
+      "chili",
+      "lehtikaali",
+      "aurinkokuivattu tomaatti",
+      "broiler",
+      "file",
+      "suikale",
+      "korianteri",
+      "sitruuna",
+      "pasta",
+      "parmesanjuusto"
+    ]
+  },
+  {
+    "major": "49",
+    "minor": "3",
+    "file": "49_3.jpg",
+    "name": "Mausteinen korma jalotofun paahtopaloilla & riisiä",
+    "rate": 0,
+    "tags": [
+      "punasipuli",
+      "valkosipuli",
+      "chili",
+      "inkivääri",
+      "porkkana",
+      "tofu",
+      "tomaattipyre",
+      "kookosmaito",
+      "korianteri",
+      "riisi"
+    ]
+  },
+  {
+    "major": "49",
+    "minor": "4",
+    "file": "49_4.jpg",
+    "name": "Ruokaboksin tortilla mausteisella jauhelihalla & pico de gallolla",
+    "rate": 0,
+    "tags": [
+      "punakaali",
+      "tomaatti",
+      "punasipuli",
+      "lime",
+      "valkosipuli",
+      "jauheliha",
+      "tortilla",
+      "ranskankerma"
+    ]
+  },
+  {
+    "major": "50",
+    "minor": "1",
+    "file": "50_1.jpg",
+    "name": "Mausteista jauhelihakastiketta & pastaa",
+    "rate": 0,
+    "tags": [
+      "sipuli",
+      "valkosipuli",
+      "chili",
+      "paprika",
+      "jauheliha",
+      "sinappi",
+      "tomaattipyre",
+      "pasta"
+    ]
+  },
+  {
+    "major": "50",
+    "minor": "2",
+    "file": "50_2.jpg",
+    "name": "Itämaista kookosbroileria & nuudeleita",
+    "rate": 0,
+    "tags": [
+      "sipuli",
+      "valkosipuli",
+      "inkivääri",
+      "chili",
+      "parsakaali",
+      "broiler",
+      "file",
+      "suikale",
+      "soija",
+      "kookosmaito",
+      "lime",
+      "minttu",
+      "nuudeli"
+    ]
+  },
+  {
+    "major": "50",
+    "minor": "3",
+    "file": "50_3.jpg",
+    "name": "One pot pelti kauraboltseista, paahdetuista perunoista & matbuhaa",
+    "rate": 5,
+    "tags": [
+      "peruna",
+      "kauraboltsi",
+      "paprika",
+      "valkosipuli",
+      "tomaattimurska",
+      "jogurtti",
+      "lime",
+      "minttu"
+    ]
+  },
+  {
+    "major": "50",
+    "minor": "4",
+    "file": "50_4.jpg",
+    "name": "Maukkaat karitsakoftat, taboullehia &tsatsikia",
+    "rate": 0,
+    "tags": [
+      "kaurajyvä",
+      "tomaatti",
+      "kurkku",
+      "sitruuna",
+      "persilja",
+      "karitsa",
+      "jogurtti",
+      "kurkku",
+      "valkosipuli",
+      "hunaja"
+    ]
+  },
+  {
+    "major": "51",
+    "minor": "1",
+    "file": "51_1.jpg",
+    "name": "Rapeaksi paistettua teriyakilohta & nuudeleita",
+    "rate": 0,
+    "tags": [
+      "lohi",
+      "soija",
+      "valkosipuli",
+      "inkivääri",
+      "chili",
+      "parsakaali",
+      "pinaatti",
+      "nuudeli",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "51",
+    "minor": "2",
+    "file": "51_2.jpg",
+    "name": "Ranskalainen broileriratatouille & perunoita",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "sipuli",
+      "valkosipuli",
+      "chili",
+      "porkkana",
+      "kesäkurpitsa",
+      "broiler",
+      "leike",
+      "tomaattimurska",
+      "persilja"
+    ]
+  },
+  {
+    "major": "51",
+    "minor": "3",
+    "file": "51_3.jpg",
+    "name": "Samettinen kukkakaalikeitto rapealla pekonilla",
+    "rate": 0,
+    "tags": [
+      "kukkakaali",
+      "sipuli",
+      "valkosipuli",
+      "papu",
+      "kerma",
+      "sitruuna",
+      "persilja",
+      "pekoni",
+      "keitto"
+    ]
+  },
+  {
+    "major": "51",
+    "minor": "4",
+    "file": "51_4.jpg",
+    "name": "Herkulliset smash burgerit & paahdettuja veneperunoita",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "jauheliha",
+      "cheddarjuusto",
+      "salaatti",
+      "tomaatti",
+      "sämpylä",
+      "majoneesi"
+    ]
+  },
+  {
+    "major": "52",
+    "minor": "1",
+    "file": "52_1.jpg",
+    "name": "Pitaleivät rapeilla falafelpyöryköillä & punakaalia",
+    "rate": 0,
+    "tags": [
+      "tomaatti",
+      "chili",
+      "punakaali",
+      "porkkana",
+      "valkosipuli",
+      "korianteri",
+      "jogurtti",
+      "falafeli",
+      "salaatti",
+      "pitaleipä"
+    ]
+  },
+  {
+    "major": "52",
+    "minor": "2",
+    "file": "52_2.jpg",
+    "name": "Omenainen kanakastike & pastaa",
+    "rate": 0,
+    "tags": [
+      "punasipuli",
+      "valkosipuli",
+      "omena",
+      "broiler",
+      "file",
+      "suikale",
+      "sinappi",
+      "kerma",
+      "pasta"
+    ]
+  },
+  {
+    "major": "52",
+    "minor": "3",
+    "file": "52_3.jpg",
+    "name": "Mausteinen chili con carne keitto",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "porkkana",
+      "punasipuli",
+      "valkosipuli",
+      "chili",
+      "papu",
+      "jauheliha",
+      "tomaattisose",
+      "korianteri",
+      "ranskankerma",
+      "keitto"
+    ]
+  },
+  {
+    "major": "52",
+    "minor": "4",
+    "file": "52_4.jpg",
+    "name": "Pork tonkatsu eli japanilainen leivitetty porsaan ulkofilepihvi & riisiä",
+    "rate": 0,
+    "tags": [
+      "valkokaali",
+      "bbq",
+      "kastike",
+      "tomaattipyre",
+      "soija",
+      "possu",
+      "file",
+      "sinappi",
+      "kananmuna",
+      "korppujauho",
+      "riisi"
+    ]
+  },
+  {
+    "major": "53",
+    "minor": "1",
+    "file": "53_1.jpg",
+    "name": "Broileria mausteisessa kookoskastikkeessa & riisiä",
+    "rate": 0,
+    "tags": [
+      "riisi",
+      "punasipuli",
+      "porkkana",
+      "chili",
+      "broiler",
+      "file",
+      "suikale",
+      "kookosmaito",
+      "soija",
+      "persilja"
+    ]
+  },
+  {
+    "major": "53",
+    "minor": "2",
+    "file": "53_2.jpg",
+    "name": "Ruokaisa maalaissalaatti rapealla pekonilla & kananmunilla",
+    "rate": 0,
+    "tags": [
+      "kananmuna",
+      "porkkana",
+      "kurkku",
+      "tomaatti",
+      "maissi",
+      "salaatti",
+      "pekoni",
+      "kermaviili",
+      "persilja",
+      "sinappi"
+    ]
+  },
+  {
+    "major": "53",
+    "minor": "3",
+    "file": "53_3.jpg",
+    "name": "Uunissa paahdettu värikäs paprikapasta & rucolaa",
+    "rate": 0,
+    "tags": [
+      "kikherne",
+      "paprika",
+      "chili",
+      "valkosipuli",
+      "punasipuli",
+      "tomaatti",
+      "rucolasalaatti",
+      "pasta",
+      "parmesanjuusto"
+    ]
+  },
+  {
+    "major": "53",
+    "minor": "4",
+    "file": "53_4.jpg",
+    "name": "Välimeren jauhelihamoussaka & marinoidut tomaatit",
+    "rate": 0,
+    "tags": [
+      "kesäkurpitsa",
+      "punasipuli",
+      "valkosipuli",
+      "jauheliha",
+      "tomaattimurska",
+      "juustoraaste",
+      "tomaatti"
+    ]
+  },
+  {
+    "major": "54",
+    "minor": "1",
+    "file": "54_1.jpg",
+    "name": "Uunissa paahdettua appelsiinilohta, perunamuusia & salaattia",
+    "rate": 0,
+    "tags": [
+      "lohi",
+      "appelsiini",
+      "peruna",
+      "maito",
+      "salaatti",
+      "tomaatti",
+      "persilja"
+    ]
+  },
+  {
+    "major": "54",
+    "minor": "2",
+    "file": "54_2.jpg",
+    "name": "Masteinen kanakeitto nuudeleilla",
+    "rate": 0,
+    "tags": [
+      "keitto",
+      "punasipuli",
+      "valkosipuli",
+      "chili",
+      "inkivääri",
+      "porkkana",
+      "parsakaali",
+      "broiler",
+      "file",
+      "suikale",
+      "kookosmaito",
+      "soija",
+      "nuudeli",
+      "sitruuna"
+    ]
+  },
+  {
+    "major": "54",
+    "minor": "3",
+    "file": "54_3.jpg",
+    "name": "Sitruunainen pasta fetajuustolla & pinaatilla",
+    "rate": 0,
+    "tags": [
+      "punasipuli",
+      "valkosipuli",
+      "chili",
+      "pinaatti",
+      "hunaja",
+      "persilja",
+      "fetajuusto",
+      "sitruuna",
+      "pasta"
+    ]
+  },
+  {
+    "major": "54",
+    "minor": "4",
+    "file": "54_4.jpg",
+    "name": "Ruokaboksin loaded potatoes & paahdettuja pihapullia",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "paprika",
+      "valkosipuli",
+      "cheddarkastike",
+      "jauheliha",
+      "sinappi",
+      "rucolasalaatti",
+      "kurkku"
+    ]
+  },
+  {
+    "major": "55",
+    "minor": "1",
+    "file": "55_1.jpg",
+    "name": "Uunissa haudutettua Baskilaista broileria riisipedillä",
+    "rate": 0,
+    "tags": [
+      "riisi",
+      "valkosipuli",
+      "punasipuli",
+      "porkkana",
+      "tomaatti",
+      "broiler",
+      "leike",
+      "soija"
+    ]
+  },
+  {
+    "major": "55",
+    "minor": "2",
+    "file": "55_2.jpg",
+    "name": "Herkulliset ja nopeat tortillapizzat jauhelihalla",
+    "rate": 0,
+    "tags": [
+      "tomaattipyre",
+      "valkosipuli",
+      "punasipuli",
+      "paprika",
+      "jauheliha",
+      "juustoraaste",
+      "tortilla",
+      "salaatti",
+      "tomaatti"
+    ]
+  },
+  {
+    "major": "55",
+    "minor": "3",
+    "file": "55_3.jpg",
+    "name": "Mausteinen linssi-kookoskeitto & rouskuvia jälkiuunilastuja",
+    "rate": 0,
+    "tags": [
+      "keitto",
+      "sipuli",
+      "valkosipuli",
+      "inkivääri",
+      "linssi",
+      "tomaattimurska",
+      "kookosmaito"
+    ]
+  },
+  {
+    "major": "55",
+    "minor": "4",
+    "file": "55_4.jpg",
+    "name": "Chorizoplate & rapeita lanttiperunoita sekä coleslawta",
+    "rate": 0,
+    "tags": [
+      "peruna",
+      "chorizo",
+      "valkokaali",
+      "porkkana",
+      "majoneesi",
+      "korianteri",
+      "chili"
+    ]
+  },
+  {
+    "major": "56",
+    "minor": "1",
+    "file": "56_1.jpg",
+    "name": "Ruokaboksin Pollo limonello",
+    "rate": 3,
+    "tags": [
+      "sipuli",
+      "valkosipuli",
+      "inkivääri",
+      "paprika",
+      "broiler",
+      "file",
+      "suikale",
+      "hunaja",
+      "soija",
+      "jogurtti",
+      "sitruuna",
+      "minttu",
+      "pasta"
+    ]
+  },
+  {
+    "major": "56",
+    "minor": "2",
+    "file": "56_2.jpg",
+    "name": "Helpot possupyörykät sinappisessa kermakastikkeessa & kuivatulla rakuunalla maistettuja perunoita ja porkkanoita",
+    "rate": 4,
+    "tags": [
+      "peruna",
+      "porkkana",
+      "possu",
+      "jauheliha",
+      "kerma",
+      "soija",
+      "sinappi",
+      "hunaja",
+      "salaatti",
+      "tomaatti"
+    ]
+  },
+  {
+    "major": "56",
+    "minor": "3",
+    "file": "56_3.jpg",
+    "name": "Uunissa paahdettu juuressalaatti couscousilla ja fetakastikkeella",
+    "rate": 0,
+    "tags": [
+      "porkkana",
+      "palsternakka",
+      "lehtikaali",
+      "sitruuna",
+      "couscous",
+      "kermaviili",
+      "minttu",
+      "fetajuusto"
+    ]
+  },
+  {
+    "major": "56",
+    "minor": "4",
+    "file": "56_4.jpg",
+    "name": "kebabia mausteisessa tomaattikastikkeessa, riisiä & marinoituja kasviksia",
+    "rate": 3,
+    "tags": [
+      "riisi",
+      "sipuli",
+      "chili",
+      "tomaatti",
+      "kebablastu",
+      "kurkku"
+    ]
+  }
+]
