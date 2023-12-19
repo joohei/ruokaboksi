@@ -1,30 +1,20 @@
-import { useState } from "react";
 import styles from "./Card.module.css";
 
-const Card = ({ major, minor, file, name, rate, tags }) => {
-  const [labels, setLabels] = useState(tags);
-
+const Card = ({ title, image, excerpt }) => {
   const handleClick = () => {
-    console.log(labels);
+    const params = new URLSearchParams({ title });
+    window.open("/recipe?" + params, "_self");
   };
 
   return (
     <div className={styles.container} onClick={handleClick}>
-      <div className={styles.header}>
-        <div className={styles.rate}>
-          {"★".repeat(rate) + "☆".repeat(5 - rate)}
-        </div>
-        <div className={styles.mark}>
-          {major}.{minor}
-        </div>
-      </div>
-      <p className={styles.title}>{name}</p>
+      <p className={styles.title}>{title}</p>
       <img
         className={styles.image}
-        src={file}
-        alt={name}
-        width="1720"
-        height="2400"
+        src={image}
+        alt={excerpt}
+        width="1160"
+        height="560"
       ></img>
     </div>
   );

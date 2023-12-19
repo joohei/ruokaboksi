@@ -1,6 +1,28 @@
-.container {
-    margin: 2rem;
+.body {
     display: flex;
-    flex-wrap: wrap;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 2rem;
+    padding: 1rem 2rem;
+}
+
+@media screen and (min-width: 768px) {
+    .cards {
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .cards {
+        grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    }
 }
