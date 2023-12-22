@@ -9,13 +9,16 @@ const Card = ({ title, image, excerpt }) => {
   return (
     <div className={styles.container} onClick={handleClick}>
       <p className={styles.title}>{title}</p>
-      <img
-        className={styles.image}
-        src={image}
-        alt={excerpt}
-        width="1160"
-        height="560"
-      ></img>
+      {image && (
+        <img
+          className={styles.image}
+          src={image}
+          alt={excerpt}
+          width="1160"
+          height="560"
+        />
+      )}
+      {!image && <p className={styles.excerpt}>{excerpt}</p>}
     </div>
   );
 };

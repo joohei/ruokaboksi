@@ -1,9 +1,9 @@
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import classNames from "classnames";
 import Filter from "./Filter";
 import styles from "./Filters.module.css";
 
-const Filters = ({ name, filters, open, states, onChange }) => {
+const Filters = ({ filters, open, states, onChange }) => {
   const [search, setSearch] = useState("");
   const [results, setResults] = useState(filters);
 
@@ -20,7 +20,6 @@ const Filters = ({ name, filters, open, states, onChange }) => {
   return (
     <div className={classNames(styles.container, open && styles.open)}>
       <div className={styles.header}>
-        <p className={styles.title}>{name}</p>
         <input
           className={styles.search}
           id="search"
@@ -32,12 +31,10 @@ const Filters = ({ name, filters, open, states, onChange }) => {
       </div>
       <div className={styles.filters}>
         {results.map((filter) => (
-          <Filter
-            key={filter}
-            name={filter}
-            states={states}
-            onChange={onChange}
-          />
+          <React.Fragment key={filter}>
+            <Filter name={filter} states={states} onChange={onChange} />
+            <hr />
+          </React.Fragment>
         ))}
       </div>
     </div>

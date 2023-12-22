@@ -41,19 +41,20 @@ const App = () => {
       <Route
         path="/"
         element={
-          <div className={styles.body}>
-            <Filters
-              name="Ainesosat"
-              filters={tags}
-              open={open}
-              states={filters}
-              onChange={handleChange}
+          <div className={styles.container}>
+            <Toolbar
+              number={results.length}
+              maximum={data.length}
+              filters={filters}
+              setFilters={setFilters}
+              handleClick={handleClick}
             />
-            <div className={styles.container}>
-              <Toolbar
-                number={results.length}
-                maximum={data.length}
-                handleClick={handleClick}
+            <div className={styles.content}>
+              <Filters
+                filters={tags}
+                open={open}
+                states={filters}
+                onChange={handleChange}
               />
               <div className={styles.cards}>
                 {results.map((course, index) => (

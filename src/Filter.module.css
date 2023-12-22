@@ -2,8 +2,12 @@
     display: flex;
     align-items: center;
     gap: 0.25rem;
+    font-size: 1.25rem;
+    cursor: pointer;
 }
 
 .container input {
-    width: 1rem;
+    width: 1.25rem;
+    height: 1.25rem;
+    cursor: pointer;
 }

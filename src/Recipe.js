@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import { FaCopy } from "react-icons/fa";
 import ClipboardJS from "clipboard";
 import classNames from "classnames";
@@ -31,12 +31,16 @@ const Recipe = () => {
         <p className={styles.title}>{title}</p>
         <img
           className={styles.image}
-          src={image}
+          src={
+            image ||
+            "https://via.placeholder.com/1160x560.png?text=Kuva+puuttuu"
+          }
           alt={excerpt}
           width="1160"
           height="560"
           onClick={handleClick}
         />
+        <p className={styles.excerpt}>{excerpt}</p>
       </div>
       <div className={styles.footer}>
         <div className={styles.ingredients}>
@@ -50,7 +54,10 @@ const Recipe = () => {
           </div>
           <ul className={styles.list}>
             {ingredients.map((tag, index) => (
-              <li key={index}>{tag}</li>
+              <React.Fragment key={index}>
+                <li>{tag}</li>
+                <hr />
+              </React.Fragment>
             ))}
           </ul>
         </div>
@@ -58,7 +65,10 @@ const Recipe = () => {
           <p className={styles.title}>Ohjeet</p>
           <ul className={styles.list}>
             {instructions.map((instruction, index) => (
-              <li key={index}>{instruction}</li>
+              <React.Fragment key={index}>
+                <li>{instruction}</li>
+                <hr />
+              </React.Fragment>
             ))}
           </ul>
         </div>

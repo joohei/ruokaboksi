@@ -1,9 +1,10 @@
 .container {
     display: flex;
     flex-direction: column;
-    gap: 1rem;
+    gap: 2rem;
     width: 100%;
-    padding: 1rem;
+    padding: 2rem;
+    border-radius: 0.5rem;
     box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.3);
 }
 
@@ -19,9 +20,43 @@
     display: flex;
     align-items: center;
     gap: 1rem;
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     font-weight: bold;
     color: var(--text-color);
+}
+
+.image {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    transition: opacity 0.3s ease;
+    border-radius: 1rem;
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+
+.image:hover {
+    opacity: 0.8;
+}
+
+.excerpt {
+    padding: 1rem;
+    width: 70%;
+    font-size: 2rem;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    color: var(--text-color);
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.2);
+    background-color: var(--light-background);
 }
 
 .copy {
@@ -33,36 +68,15 @@
     font-size: 1rem;
     color: var(--text-color);
     cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.copy:hover {
+    background-color: #f0f0f0;
 }
 
 .success {
     animation: pulse 0.3s ease;
-}
-
-.rate {
-    font-size: 2rem;
-}
-
-.image {
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-    object-position: top center;
-    transition: opacity 0.3s ease;
-    cursor: pointer;
-}
-
-.image:hover {
-    opacity: 0.8;
-}
-
-.footer {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-    padding: 1rem;
-    border-radius: 0.5rem;
-    background-color: var(--light-background);
 }
 
 .ingredients, .steps {
@@ -74,13 +88,20 @@
 .list {
     display: flex;
     flex-direction: column;
-    gap: 1rem;
+    gap: 0.75rem;
     list-style-type: none;
 }
 
 .list li {
     padding: 0.25rem 0;
-    border-bottom: 0.125rem solid #e9e9e9;
+}
+
+.list hr {
+    border: 1px solid #e9e9e9;
+}
+
+.list hr:last-child {
+    border: none;
 }
 
 .list li:last-child {
@@ -101,9 +122,9 @@
     }
 }
 
-@media screen and (min-width: 1024px) {
+@media only screen and (min-width: 1024px) {
     .container {
-        width: 80%;
+        max-width: 1200px;
         margin: 2rem auto;
         box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.3);
     }
